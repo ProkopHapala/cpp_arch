@@ -1,0 +1,244 @@
+
+
+// read also:
+// http://www.euclideanspace.com/maths/geometry/rotations/conversions/quaternionToAngle/
+
+//template <class TYPE, class VEC, class MAT, class QUAT> 
+//template <class TYPE, class VEC> 
+template <class TYPE> 
+class Quat4TYPE {
+	using VEC  = Vec3TYPE<TYPE>; 
+	using MAT  = Mat3TYPE<TYPE>; 
+	using QUAT = Quat4TYPE<TYPE>; 
+	public:
+	union{
+		struct{ TYPE x,y,z,w; };
+		TYPE array[4];
+	};
+
+		inline void set   ( const  QUAT& q                           ){ x=q.x; y=q.y; z=q.z; w=q.w; };
+	inline void set   ( TYPE fx, TYPE fy, TYPE fz, TYPE fw ){ x=fx;  y=fy;  z=fz;  w=fw; };
+	inline void setOne( ){ x=y=z=0; w=1; };
+
+// ====== basic aritmetic
+
+// ============== Basic Math
+
+    inline QUAT operator*=( TYPE f        ) { x*=f; y*=f; z*=f; z*=f; w*=f;   return *this; };
+    inline QUAT operator+=( const QUAT& q ) { x+=q.x; y+=q.y; z+=q.z; w+=q.w; return *this; };
+    inline QUAT operator-=( const QUAT& q ) { x-=q.x; y-=q.y; z-=q.z; w-=q.w; return *this; };
+
+    inline TYPE dot ( QUAT q ) {  return       w*q.w + x*q.x + y*q.y + z*q.z;   }
+    inline TYPE mag2(          ) {  return       w*  w + x*  x + y*  y + z*  z;   }
+	inline TYPE mag (          ) {  return sqrt( w*  w + x*  x + y*  y + z*  z ); }
+    inline TYPE normalize() {
+		TYPE norm  = sqrt( x*x + y*y + z*z + w*w );
+		TYPE inorm = 1.0d/norm;
+		x *= inorm;    y *= inorm;    z *= inorm;   w *= inorm;
+		return norm;
+    }
+
+// ====== Quaternion multiplication
+
+	inline void setQmul( const QUAT& a, const QUAT& b) {
+        x =  a.x * b.w + a.y * b.z - a.z * b.y + a.w * b.x;
+        y = -a.x * b.z + a.y * b.w + a.z * b.x + a.w * b.y;
+        z =  a.x * b.y - a.y * b.x + a.z * b.w + a.w * b.z;
+        w = -a.x * b.x - a.y * b.y - a.z * b.z + a.w * b.w;
+    };
+
+    inline void qmul( const QUAT& a) {
+        TYPE aw = a.w, ax = a.x, ay = a.y, az = a.z;
+        TYPE x_ =  x * aw + y * az - z * ay + w * ax;
+        TYPE y_ = -x * az + y * aw + z * ax + w * ay;
+        TYPE z_ =  x * ay - y * ax + z * aw + w * az;
+                w = -x * ax - y * ay - z * az + w * aw;
+        x = x_; y = y_; z = z_;
+    };
+
+    inline void invertUnitary() { x=-x; y=-y; z=-z; }
+
+    inline void invert() {
+		TYPE norm = sqrt( x*x + y*y + z*z + w*w );
+		if ( norm > 0.0 ) {
+			TYPE invNorm = 1.0d / norm;
+			x *= -invNorm; y *= -invNorm;z *= -invNorm;	w *=  invNorm;
+		}
+    };
+
+
+// ======= Conversion : Angle & Axis
+
+	inline void fromAngleAxis( TYPE angle, const VEC& axis ){  
+		TYPE ir   = 1/axis.norm();
+		VEC  hat  = axis * ir;
+		TYPE a    = 0.5d * angle;
+		TYPE sa   = sin(a);
+		w =           cos(a);
+		x = sa * hat.x;
+		y = sa * hat.y;
+		z = sa * hat.z;
+	};
+
+
+// ====== Differential rotation
+
+	inline void dRot_exact ( TYPE dt, const VEC& omega ) {
+		TYPE hx   = omega.x;
+		TYPE hy   = omega.y;
+		TYPE hz   = omega.z;
+		TYPE r2   = hx*hx + hy*hy + hz*hz;
+		if(r2>0){
+			TYPE norm = sqrt( r2 );
+			TYPE a    = dt * norm * 0.5d;
+			TYPE sa   = sin( a )/norm;  // we normalize it here to save multiplications
+			TYPE ca   = cos( a );
+			hx*=sa; hy*=sa; hz*=sa;            // hat * sin(a)
+			TYPE x_ = x, y_ = y, z_ = z, w_ = w;
+			x =  hx*w_ + hy*z_ - hz*y_ + ca*x_;
+			y = -hx*z_ + hy*w_ + hz*x_ + ca*y_;
+			z =  hx*y_ - hy*x_ + hz*w_ + ca*z_;
+			w = -hx*x_ - hy*y_ - hz*z_ + ca*w_;
+		}
+	};
+
+
+	inline void dRot_taylor2 ( TYPE dt, VEC& omega ) {
+		TYPE hx   = omega.x;
+		TYPE hy   = omega.y;
+		TYPE hz   = omega.z;
+		TYPE r2   = hx*hx + hy*hy + hz*hz;
+		TYPE b2   = dt*dt*r2;
+		const TYPE c2 = 1.0d/8;    // 4  *2       
+		const TYPE c3 = 1.0d/48;   // 8  *2*3     
+		const TYPE c4 = 1.0d/384;  // 16 *2*3*4   
+		const TYPE c5 = 1.0d/3840; // 32 *2*3*4*5 
+		TYPE sa   = dt * ( 0.5d - b2*( c3 - c5*b2 ) ); 
+		TYPE ca   =      ( 1    - b2*( c2 - c4*b2 ) );
+		hx*=sa; hy*=sa; hz*=sa;  // hat * sin(a)
+		TYPE x_ = x, y_ = y, z_ = z, w_ = w;
+		x =  hx*w_ + hy*z_ - hz*y_ + ca*x_;
+		y = -hx*z_ + hy*w_ + hz*x_ + ca*y_;
+		z =  hx*y_ - hy*x_ + hz*w_ + ca*z_;
+		w = -hx*x_ - hy*y_ - hz*z_ + ca*w_;
+	};
+
+
+	inline void toMatrix( MAT& result) {
+		    TYPE r2 = w*w + x*x + y*y + z*z;
+		    //TYPE s  = (r2 > 0) ? 2d / r2 : 0;
+			TYPE s  = 2 / r2;
+		    // compute xs/ys/zs first to save 6 multiplications, since xs/ys/zs
+		    // will be used 2-4 times each.
+		    TYPE xs = x * s;  TYPE ys = y * s;  TYPE zs = z * s;
+		    TYPE xx = x * xs; TYPE xy = x * ys; TYPE xz = x * zs;
+		    TYPE xw = w * xs; TYPE yy = y * ys; TYPE yz = y * zs;
+		    TYPE yw = w * ys; TYPE zz = z * zs; TYPE zw = w * zs;
+		    // using s=2/norm (instead of 1/norm) saves 9 multiplications by 2 here
+		    result.xx = 1 - (yy + zz);
+		    result.xy =     (xy - zw);
+		    result.xz =     (xz + yw);
+		    result.yx =     (xy + zw);
+		    result.yy = 1 - (xx + zz);
+		    result.yz =     (yz - xw);
+		    result.zx =     (xz - yw);
+		    result.zy =     (yz + xw);
+		    result.zz = 1 - (xx + yy);
+	};
+
+
+	inline void toMatrix_unitary( MAT& result) {
+		TYPE xx = x * x;
+		TYPE xy = y * y;
+		TYPE xz = x * z;
+		TYPE xw = x * w;
+		TYPE yy = y * y;
+		TYPE yz = y * z;
+		TYPE yw = y * w;
+		TYPE zz = z * z;
+		TYPE zw = z * w;
+		result.xx = 1 - 2 * ( yy + zz );
+		result.xy =     2 * ( xy - zw );
+		result.xz =     2 * ( xz + yw );
+		result.yx =     2 * ( xy + zw );
+		result.yy = 1 - 2 * ( xx + zz );
+		result.yz =     2 * ( yz - xw );
+		result.zx =     2 * ( xz - yw );
+		result.zy =     2 * ( yz + xw );
+		result.zz = 1 - 2 * ( xx + yy );
+	};
+
+
+	inline void toMatrix_unitary2( MAT& result) {
+		TYPE x2 = 2*x;
+		TYPE y2 = 2*y;
+		TYPE z2 = 2*z;
+		TYPE xx = x2 * x;
+		TYPE xy = y2 * y;
+		TYPE xz = x2 * z;
+		TYPE xw = x2 * w;
+		TYPE yy = y2 * y;
+		TYPE yz = y2 * z;
+		TYPE yw = y2 * w;
+		TYPE zz = z2 * z;
+		TYPE zw = z2 * w;
+		result.xx = 1 - ( yy + zz );
+		result.xy =     ( xy - zw );
+		result.xz =     ( xz + yw );
+		result.yx =     ( xy + zw );
+		result.yy = 1 - ( xx + zz );
+		result.yz =     ( yz - xw );
+		result.zx =     ( xz - yw );
+		result.zy =     ( yz + xw );
+		result.zz = 1 - ( xx + yy );
+	};
+
+	inline void fromMatrix( const VEC& a, const VEC& b, const VEC& c ) { fromMatrix( a.x,  a.y,  a.z,  b.x,  b.y,  b.z,  c.x,  c.y,  c.z  );  }
+	inline void fromMatrix( const MAT& M                                 ) { fromMatrix( M.xx, M.xy, M.xz, M.yx, M.yy, M.yz, M.zx, M.zy, M.zz );  }
+    inline void fromMatrix( TYPE mxx, TYPE mxy, TYPE mxz, TYPE myx, TYPE myy, TYPE myz, TYPE mzx, TYPE mzy, TYPE mzz) {
+		TYPE t = mxx + myy + mzz;
+		// we protect the division by s by ensuring that s>=1
+		if (t >= 0) { // |w| >= .5
+			TYPE s = sqrt(t + 1); // |s|>=1 ...
+			w = 0.5f * s;
+			s = 0.5f / s;                 // so this division isn't bad
+			x = (mzy - myz) * s;
+			y = (mxz - mzx) * s;
+			z = (myx - mxy) * s;
+		} else if ((mxx > myy) && (mxx > mzz)) {
+			TYPE s = sqrt(1.0f + mxx - myy - mzz); // |s|>=1
+			x = s * 0.5f; // |x| >= .5
+			s = 0.5f / s;
+			y = (myx + mxy) * s;
+			z = (mxz + mzx) * s;
+			w = (mzy - myz) * s;
+		} else if (myy > mzz) {
+			TYPE s = sqrt(1.0f + myy - mxx - mzz); // |s|>=1
+			y = s * 0.5f; // |y| >= .5
+			s = 0.5f / s;
+			x = (myx + mxy) * s;
+			z = (mzy + myz) * s;
+			w = (mxz - mzx) * s;
+		} else {
+			TYPE s = sqrt(1.0f + mzz - mxx - myy); // |s|>=1
+			z = s * 0.5f; // |z| >= .5
+			s = 0.5f / s;
+			x = (mxz + mzx) * s;
+			y = (mzy + myz) * s;
+			w = (myx - mxy) * s;
+		}
+	};
+
+};
+
+/*
+class Quat4i : public Quat4TYPE< int,    Vec3i, Mat3i, Quat4i >{  };
+class Quat4f : public Quat4TYPE< float,  Vec3f, Mat3f, Quat4f >{  };
+class QUAT : public Quat4TYPE< TYPE, VEC, MAT, QUAT >{  };
+*/
+
+using Quat4i = Quat4TYPE< int>;
+using Quat4f = Quat4TYPE< float>;
+using Quat4d = Quat4TYPE< double >;
+
+

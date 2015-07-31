@@ -1,0 +1,13 @@
+Smyslem tehle hry je vytvorit minimalisticky simulator kosmicke lodi s s durazem na tyto cile
+ 
+ - prehledne ovladani v 2D a 2.5D, pricemz ale draha lodi je plkne 3D
+ - prehledne ovladani zoom prez mnoho meritek
+ - prehledne ovladani casu prez hodne meritek
+ - zaklady konstrucke lodi ( speficicky impulz ... )
+ - predpovidani drahy lodi a jeji zmeny
+ - elementarni boj
+
+Co zatim nechci rozvijet (protoze je to priliz slozite a oddalovalo by to dokonceni)
+ - optimalizace orbitalnich drah
+ - realisticka vnitrni dynamika lodi (rigit body a soft body dynamics) 
+ - realisticka simulace vnitrnich systemu lodi ( napr chlazeni, palivo ... )

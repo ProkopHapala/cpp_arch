@@ -1,0 +1,1584 @@
+In file included from SDLapp.cpp:11:0:
+include/Vec3.h:5:8: error: expected nested-name-specifier before ‘VEC’
+include/Vec3.h:5:8: error: using-declaration for non-member at class scope
+include/Vec3.h:5:12: error: expected ‘;’ before ‘=’ token
+include/Vec3.h:5:12: error: expected unqualified-id before ‘=’ token
+include/Vec3.h:16:28: error: ‘VEC’ does not name a type
+include/Vec3.h:16:33: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Vec3.h:25:28: error: ‘VEC’ does not name a type
+include/Vec3.h:25:34: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Vec3.h:26:28: error: ‘VEC’ does not name a type
+include/Vec3.h:26:34: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Vec3.h:27:28: error: ‘VEC’ does not name a type
+include/Vec3.h:27:34: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Vec3.h:28:28: error: ‘VEC’ does not name a type
+include/Vec3.h:28:34: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Vec3.h:35:29: error: ‘VEC’ does not name a type
+include/Vec3.h:35:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:36:29: error: ‘VEC’ does not name a type
+include/Vec3.h:36:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:37:29: error: ‘VEC’ does not name a type
+include/Vec3.h:37:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:37:43: error: ‘VEC’ does not name a type
+include/Vec3.h:37:48: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:39:29: error: ‘VEC’ does not name a type
+include/Vec3.h:39:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:39:43: error: ‘VEC’ does not name a type
+include/Vec3.h:39:48: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:40:29: error: ‘VEC’ does not name a type
+include/Vec3.h:40:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:40:43: error: ‘VEC’ does not name a type
+include/Vec3.h:40:48: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:41:29: error: ‘VEC’ does not name a type
+include/Vec3.h:41:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:41:43: error: ‘VEC’ does not name a type
+include/Vec3.h:41:48: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:42:29: error: ‘VEC’ does not name a type
+include/Vec3.h:42:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:42:43: error: ‘VEC’ does not name a type
+include/Vec3.h:42:48: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:44:29: error: ‘VEC’ does not name a type
+include/Vec3.h:44:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:45:29: error: ‘VEC’ does not name a type
+include/Vec3.h:45:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:45:43: error: ‘VEC’ does not name a type
+include/Vec3.h:45:48: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:46:29: error: ‘VEC’ does not name a type
+include/Vec3.h:46:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:46:43: error: ‘VEC’ does not name a type
+include/Vec3.h:46:48: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:47:29: error: ‘VEC’ does not name a type
+include/Vec3.h:47:34: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:47:43: error: ‘VEC’ does not name a type
+include/Vec3.h:47:48: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:49:33: error: ‘VEC’ does not name a type
+include/Vec3.h:49:38: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:49:47: error: ‘VEC’ does not name a type
+include/Vec3.h:49:52: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:51:42: error: ‘VEC’ does not name a type
+include/Vec3.h:51:47: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:51:65: error: ‘VEC’ does not name a type
+include/Vec3.h:51:70: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+In file included from SDLapp.cpp:11:0:
+include/Vec3.h:52:42: error: ‘VEC’ does not name a type
+include/Vec3.h:52:47: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:52:65: error: ‘VEC’ does not name a type
+include/Vec3.h:52:70: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:54:60: error: ‘VEC’ does not name a type
+include/Vec3.h:54:65: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:54:74: error: ‘VEC’ does not name a type
+include/Vec3.h:54:79: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:54:88: error: ‘VEC’ does not name a type
+include/Vec3.h:54:93: error: ISO C++ forbids declaration of ‘c’ with no type [-fpermissive]
+include/Vec3.h:55:60: error: ‘VEC’ does not name a type
+include/Vec3.h:55:65: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:55:74: error: ‘VEC’ does not name a type
+include/Vec3.h:55:79: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:55:88: error: ‘VEC’ does not name a type
+include/Vec3.h:55:93: error: ISO C++ forbids declaration of ‘c’ with no type [-fpermissive]
+include/Vec3.h:58:35: error: ‘VEC’ does not name a type
+include/Vec3.h:58:40: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:58:49: error: ‘VEC’ does not name a type
+include/Vec3.h:58:54: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:59:32: error: ‘VEC’ does not name a type
+include/Vec3.h:59:37: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:59:46: error: ‘VEC’ does not name a type
+include/Vec3.h:59:51: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Vec3.h:61:12: error: ‘VEC’ does not name a type
+include/Vec3.h:62:12: error: ‘VEC’ does not name a type
+include/Vec3.h:64:12: error: ‘VEC’ does not name a type
+include/Vec3.h:65:12: error: ‘VEC’ does not name a type
+include/Vec3.h:66:12: error: ‘VEC’ does not name a type
+include/Vec3.h:67:12: error: ‘VEC’ does not name a type
+include/Vec3.h:69:27: error: ‘VEC’ does not name a type
+include/Vec3.h:69:32: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Vec3.h:80:28: error: ‘VEC’ has not been declared
+include/Vec3.h:80:37: error: ‘VEC’ has not been declared
+include/Vec3.h:107:40: error: ‘VEC’ does not name a type
+include/Vec3.h:107:45: error: ISO C++ forbids declaration of ‘axis’ with no type [-fpermissive]
+include/Vec3.h:115:50: error: ‘VEC’ does not name a type
+include/Vec3.h:115:55: error: ISO C++ forbids declaration of ‘uaxis’ with no type [-fpermissive]
+In file included from SDLapp.cpp:11:0:
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set(const int&)’:
+include/Vec3.h:16:56: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:16:63: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:16:70: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::add(const int&)’:
+include/Vec3.h:25:45: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:25:53: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:25:61: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::sub(const int&)’:
+include/Vec3.h:26:45: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:26:53: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:26:61: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::mul(const int&)’:
+include/Vec3.h:27:45: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:27:53: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:27:61: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::div(const int&)’:
+include/Vec3.h:28:45: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:28:53: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h:28:61: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_add(const int&, TYPE)’:
+include/Vec3.h:35:51: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:35:60: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:35:69: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_mul(const int&, TYPE)’:
+include/Vec3.h:36:51: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:36:60: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:36:69: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_mul(const int&, const int&, TYPE)’:
+include/Vec3.h:37:65: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:37:69: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:37:78: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:37:82: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:37:91: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:37:95: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_add(const int&, const int&)’:
+include/Vec3.h:39:57: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:39:61: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:39:68: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:39:72: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:39:79: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:39:83: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_sub(const int&, const int&)’:
+include/Vec3.h:40:57: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:40:61: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:40:68: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:40:72: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:40:79: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:40:83: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_mul(const int&, const int&)’:
+include/Vec3.h:41:57: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:41:61: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:41:68: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:41:72: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:41:79: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:41:83: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_div(const int&, const int&)’:
+include/Vec3.h:42:57: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:42:61: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:42:68: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:42:72: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:42:79: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:42:83: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::add_mul(const int&, TYPE)’:
+include/Vec3.h:44:67: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:44:81: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:44:95: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::add_mul(const int&, const int&)’:
+include/Vec3.h:45:67: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:45:71: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:45:81: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:45:85: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:45:95: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:45:99: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::sub_mul(const int&, const int&)’:
+include/Vec3.h:46:67: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:46:71: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:46:81: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:46:85: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:46:95: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:46:99: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::add_mul(const int&, const int&, TYPE)’:
+include/Vec3.h:47:67: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:47:71: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:47:81: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:47:85: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:47:95: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:47:99: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_add_mul(const int&, const int&, TYPE)’:
+include/Vec3.h:49:70: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:49:78: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:49:90: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:49:98: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:49:110: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:49:118: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_lincomb(TYPE, const int&, TYPE, const int&)’:
+include/Vec3.h:51:84: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:51:93: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:51:106: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:51:115: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+In file included from SDLapp.cpp:11:0:
+include/Vec3.h:51:128: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:51:137: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::add_lincomb(TYPE, const int&, TYPE, const int&)’:
+include/Vec3.h:52:84: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:52:93: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:52:106: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:52:115: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:52:128: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:52:137: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_lincomb(TYPE, TYPE, TYPE, const int&, const int&, const int&)’:
+include/Vec3.h:54:107: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:54:116: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:54:125: error: request for member ‘x’ in ‘c’, which is of non-class type ‘const int’
+include/Vec3.h:54:138: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:54:147: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:54:156: error: request for member ‘y’ in ‘c’, which is of non-class type ‘const int’
+include/Vec3.h:54:169: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:54:178: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:54:187: error: request for member ‘z’ in ‘c’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::add_lincomb(TYPE, TYPE, TYPE, const int&, const int&, const int&)’:
+include/Vec3.h:55:107: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:55:116: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:55:125: error: request for member ‘x’ in ‘c’, which is of non-class type ‘const int’
+include/Vec3.h:55:138: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:55:147: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:55:156: error: request for member ‘y’ in ‘c’, which is of non-class type ‘const int’
+include/Vec3.h:55:169: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:55:178: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:55:187: error: request for member ‘z’ in ‘c’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::set_cross(const int&, const int&)’:
+include/Vec3.h:58:64: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:58:68: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:58:72: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:58:76: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:58:84: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:58:88: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:58:92: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:58:96: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:58:104: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:58:108: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:58:112: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:58:116: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::add_cross(const int&, const int&)’:
+include/Vec3.h:59:61: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:59:65: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:59:69: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:59:73: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:59:81: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:59:85: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:59:89: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:59:93: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:59:101: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:59:105: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h:59:109: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:59:113: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘TYPE Vec3TYPE<TYPE>::dot(const int&) const’:
+include/Vec3.h:69:55: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:69:63: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h:69:71: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::getSomeOrtho(int&, int&)’:
+include/Vec3.h:89:7: error: request for member ‘x’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:90:7: error: request for member ‘y’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:91:7: error: request for member ‘z’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:97:7: error: request for member ‘x’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:98:7: error: request for member ‘y’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:99:7: error: request for member ‘z’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:101:6: error: request for member ‘x’ in ‘v2’, which is of non-class type ‘int’
+include/Vec3.h:101:15: error: request for member ‘z’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:101:24: error: request for member ‘y’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:102:6: error: request for member ‘y’ in ‘v2’, which is of non-class type ‘int’
+include/Vec3.h:102:15: error: request for member ‘x’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:102:24: error: request for member ‘z’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:103:6: error: request for member ‘z’ in ‘v2’, which is of non-class type ‘int’
+include/Vec3.h:103:15: error: request for member ‘y’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h:103:24: error: request for member ‘x’ in ‘v1’, which is of non-class type ‘int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::rotate(TYPE, const int&)’:
+include/Vec3.h:108:3: error: ‘VEC’ was not declared in this scope
+include/Vec3.h:108:7: error: expected ‘;’ before ‘uaxis’
+include/Vec3.h:109:3: error: ‘uaxis’ was not declared in this scope
+include/Vec3.h:109:26: error: request for member ‘norm’ in ‘axis’, which is of non-class type ‘const int’
+include/Vec3.h: In member function ‘void Vec3TYPE<TYPE>::rotate_csa(TYPE, TYPE, const int&)’:
+include/Vec3.h:117:21: error: request for member ‘y’ in ‘uaxis’, which is of non-class type ‘const int’
+include/Vec3.h:117:33: error: request for member ‘z’ in ‘uaxis’, which is of non-class type ‘const int’
+include/Vec3.h:118:21: error: request for member ‘z’ in ‘uaxis’, which is of non-class type ‘const int’
+include/Vec3.h:118:33: error: request for member ‘x’ in ‘uaxis’, which is of non-class type ‘const int’
+include/Vec3.h:119:21: error: request for member ‘x’ in ‘uaxis’, which is of non-class type ‘const int’
+include/Vec3.h:119:33: error: request for member ‘y’ in ‘uaxis’, which is of non-class type ‘const int’
+include/Vec3.h:120:38: error: request for member ‘x’ in ‘uaxis’, which is of non-class type ‘const int’
+include/Vec3.h:121:38: error: request for member ‘y’ in ‘uaxis’, which is of non-class type ‘const int’
+include/Vec3.h:122:40: error: request for member ‘z’ in ‘uaxis’, which is of non-class type ‘const int’
+include/Vec3.h: At global scope:
+include/Vec3.h:133:7: error: expected nested-name-specifier before ‘Vec3i’
+include/Vec3.h:133:7: error: ‘Vec3i’ has not been declared
+include/Vec3.h:133:13: error: expected ‘;’ before ‘=’ token
+include/Vec3.h:133:13: error: expected unqualified-id before ‘=’ token
+include/Vec3.h:134:7: error: expected nested-name-specifier before ‘Vec3f’
+include/Vec3.h:134:7: error: ‘Vec3f’ has not been declared
+include/Vec3.h:134:13: error: expected ‘;’ before ‘=’ token
+include/Vec3.h:134:13: error: expected unqualified-id before ‘=’ token
+include/Vec3.h:135:7: error: expected nested-name-specifier before ‘Vec3d’
+include/Vec3.h:135:7: error: ‘Vec3d’ has not been declared
+include/Vec3.h:135:13: error: expected ‘;’ before ‘=’ token
+include/Vec3.h:135:13: error: expected unqualified-id before ‘=’ token
+include/Vec3.h:137:21: error: ‘Vec3f’ does not name a type
+include/Vec3.h:137:28: error: ISO C++ forbids declaration of ‘from’ with no type [-fpermissive]
+include/Vec3.h:137:34: error: ‘Vec3d’ has not been declared
+include/Vec3.h: In function ‘void convert(const int&, int&)’:
+include/Vec3.h:137:50: error: request for member ‘x’ in ‘to’, which is of non-class type ‘int’
+include/Vec3.h:137:57: error: request for member ‘x’ in ‘from’, which is of non-class type ‘const int’
+include/Vec3.h:137:70: error: request for member ‘y’ in ‘to’, which is of non-class type ‘int’
+include/Vec3.h:137:77: error: request for member ‘y’ in ‘from’, which is of non-class type ‘const int’
+include/Vec3.h:137:90: error: request for member ‘z’ in ‘to’, which is of non-class type ‘int’
+include/Vec3.h:137:97: error: request for member ‘z’ in ‘from’, which is of non-class type ‘const int’
+include/Vec3.h: At global scope:
+include/Vec3.h:138:21: error: ‘Vec3d’ does not name a type
+include/Vec3.h:138:28: error: ISO C++ forbids declaration of ‘from’ with no type [-fpermissive]
+include/Vec3.h:138:34: error: ‘Vec3f’ has not been declared
+include/Vec3.h: In function ‘void convert(const int&, int&)’:
+include/Vec3.h:138:6: error: redefinition of ‘void convert(const int&, int&)’
+include/Vec3.h:137:6: error: ‘void convert(const int&, int&)’ previously defined here
+include/Vec3.h:138:50: error: request for member ‘x’ in ‘to’, which is of non-class type ‘int’
+include/Vec3.h:138:64: error: request for member ‘x’ in ‘from’, which is of non-class type ‘const int’
+include/Vec3.h:138:70: error: request for member ‘y’ in ‘to’, which is of non-class type ‘int’
+include/Vec3.h:138:84: error: request for member ‘y’ in ‘from’, which is of non-class type ‘const int’
+include/Vec3.h:138:90: error: request for member ‘z’ in ‘to’, which is of non-class type ‘int’
+include/Vec3.h:138:104: error: request for member ‘z’ in ‘from’, which is of non-class type ‘const int’
+In file included from SDLapp.cpp:12:0:
+include/Mat3.h: At global scope:
+include/Mat3.h:7:8: error: expected nested-name-specifier before ‘VEC’
+include/Mat3.h:7:8: error: using-declaration for non-member at class scope
+include/Mat3.h:7:12: error: expected ‘;’ before ‘=’ token
+include/Mat3.h:7:12: error: expected unqualified-id before ‘=’ token
+include/Mat3.h:8:8: error: expected nested-name-specifier before ‘MAT’
+include/Mat3.h:8:8: error: using-declaration for non-member at class scope
+include/Mat3.h:8:12: error: expected ‘;’ before ‘=’ token
+include/Mat3.h:8:12: error: expected unqualified-id before ‘=’ token
+include/Mat3.h:21:11: error: ‘VEC’ does not name a type
+include/Mat3.h:31:27: error: ‘VEC’ does not name a type
+include/Mat3.h:31:32: error: ISO C++ forbids declaration of ‘va’ with no type [-fpermissive]
+include/Mat3.h:31:42: error: ‘VEC’ does not name a type
+include/Mat3.h:31:47: error: ISO C++ forbids declaration of ‘vb’ with no type [-fpermissive]
+include/Mat3.h:31:57: error: ‘VEC’ does not name a type
+include/Mat3.h:31:62: error: ISO C++ forbids declaration of ‘vc’ with no type [-fpermissive]
+include/Mat3.h:32:27: error: ‘MAT’ does not name a type
+include/Mat3.h:32:32: error: ISO C++ forbids declaration of ‘M’ with no type [-fpermissive]
+include/Mat3.h:39:33: error: ‘VEC’ does not name a type
+include/Mat3.h:39:38: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/Mat3.h:39:47: error: ‘VEC’ does not name a type
+include/Mat3.h:39:52: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/Mat3.h:45:9: error: ‘VEC’ does not name a type
+include/Mat3.h:46:12: error: ‘VEC’ does not name a type
+include/Mat3.h:47:12: error: ‘VEC’ does not name a type
+include/Mat3.h:49:24: error: ‘VEC’ has not been declared
+include/Mat3.h:50:27: error: ‘VEC’ has not been declared
+include/Mat3.h:51:27: error: ‘VEC’ has not been declared
+include/Mat3.h:53:30: error: ‘VEC’ does not name a type
+include/Mat3.h:53:34: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Mat3.h:54:30: error: ‘VEC’ does not name a type
+include/Mat3.h:54:34: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Mat3.h:55:30: error: ‘VEC’ does not name a type
+include/Mat3.h:55:34: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Mat3.h:76:28: error: ‘MAT’ does not name a type
+include/Mat3.h:76:33: error: ISO C++ forbids declaration of ‘M’ with no type [-fpermissive]
+include/Mat3.h:82:28: error: ‘VEC’ does not name a type
+include/Mat3.h:82:33: error: ISO C++ forbids declaration of ‘va’ with no type [-fpermissive]
+include/Mat3.h:82:43: error: ‘VEC’ does not name a type
+include/Mat3.h:82:48: error: ISO C++ forbids declaration of ‘vb’ with no type [-fpermissive]
+include/Mat3.h:82:58: error: ‘VEC’ does not name a type
+include/Mat3.h:82:63: error: ISO C++ forbids declaration of ‘vc’ with no type [-fpermissive]
+include/Mat3.h:90:9: error: ‘VEC’ does not name a type
+include/Mat3.h:98:28: error: ‘VEC’ does not name a type
+include/Mat3.h:98:34: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Mat3.h:98:37: error: ‘VEC’ has not been declared
+include/Mat3.h:104:30: error: ‘VEC’ does not name a type
+include/Mat3.h:104:36: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/Mat3.h:104:39: error: ‘VEC’ has not been declared
+include/Mat3.h:112:30: error: ‘MAT’ does not name a type
+include/Mat3.h:112:35: error: ISO C++ forbids declaration of ‘A’ with no type [-fpermissive]
+include/Mat3.h:112:44: error: ‘MAT’ does not name a type
+include/Mat3.h:112:49: error: ISO C++ forbids declaration of ‘B’ with no type [-fpermissive]
+include/Mat3.h:124:33: error: ‘MAT’ does not name a type
+include/Mat3.h:124:38: error: ISO C++ forbids declaration of ‘A’ with no type [-fpermissive]
+include/Mat3.h:124:47: error: ‘MAT’ does not name a type
+include/Mat3.h:124:52: error: ISO C++ forbids declaration of ‘B’ with no type [-fpermissive]
+include/Mat3.h:136:33: error: ‘MAT’ does not name a type
+include/Mat3.h:136:38: error: ISO C++ forbids declaration of ‘A’ with no type [-fpermissive]
+include/Mat3.h:136:47: error: ‘MAT’ does not name a type
+include/Mat3.h:136:52: error: ISO C++ forbids declaration of ‘B’ with no type [-fpermissive]
+include/Mat3.h:148:33: error: ‘MAT’ does not name a type
+include/Mat3.h:148:38: error: ISO C++ forbids declaration of ‘A’ with no type [-fpermissive]
+include/Mat3.h:148:47: error: ‘MAT’ does not name a type
+include/Mat3.h:148:52: error: ISO C++ forbids declaration of ‘B’ with no type [-fpermissive]
+include/Mat3.h:170:25: error: ‘MAT’ has not been declared
+include/Mat3.h:183:29: error: ‘MAT’ has not been declared
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::set(const int&, const int&, const int&)’:
+include/Mat3.h:31:68: error: ‘a’ was not declared in this scope
+include/Mat3.h:31:79: error: ‘b’ was not declared in this scope
+include/Mat3.h:31:90: error: ‘c’ was not declared in this scope
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::set(const int&)’:
+include/Mat3.h:33:8: error: request for member ‘xx’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:33:17: error: request for member ‘xy’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:33:26: error: request for member ‘xz’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:34:8: error: request for member ‘yx’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:34:17: error: request for member ‘yy’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:34:26: error: request for member ‘yz’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:35:8: error: request for member ‘zx’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:35:17: error: request for member ‘zy’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:35:26: error: request for member ‘zz’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::set_outer(const int&, const int&)’:
+include/Mat3.h:40:8: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Mat3.h:40:12: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Mat3.h:40:20: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Mat3.h:40:24: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Mat3.h:40:32: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/Mat3.h:40:36: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Mat3.h:41:8: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Mat3.h:41:12: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Mat3.h:41:20: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Mat3.h:41:24: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Mat3.h:41:32: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/Mat3.h:41:36: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Mat3.h:42:8: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Mat3.h:42:12: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/Mat3.h:42:20: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Mat3.h:42:24: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/Mat3.h:42:32: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/Mat3.h:42:36: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::colx_to(int&)’:
+include/Mat3.h:49:39: error: request for member ‘x’ in ‘out’, which is of non-class type ‘int’
+include/Mat3.h:49:51: error: request for member ‘y’ in ‘out’, which is of non-class type ‘int’
+include/Mat3.h:49:63: error: request for member ‘z’ in ‘out’, which is of non-class type ‘int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::coly_to(int&)’:
+include/Mat3.h:50:42: error: request for member ‘x’ in ‘out’, which is of non-class type ‘int’
+include/Mat3.h:50:54: error: request for member ‘y’ in ‘out’, which is of non-class type ‘int’
+include/Mat3.h:50:66: error: request for member ‘z’ in ‘out’, which is of non-class type ‘int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::colz_to(int&)’:
+include/Mat3.h:51:42: error: request for member ‘x’ in ‘out’, which is of non-class type ‘int’
+include/Mat3.h:51:54: error: request for member ‘y’ in ‘out’, which is of non-class type ‘int’
+include/Mat3.h:51:66: error: request for member ‘z’ in ‘out’, which is of non-class type ‘int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::setColx(int)’:
+include/Mat3.h:53:46: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:53:56: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:53:66: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::setColy(int)’:
+include/Mat3.h:54:46: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:54:56: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:54:66: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::setColz(int)’:
+include/Mat3.h:55:46: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:55:56: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:55:66: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::setT(const int&)’:
+include/Mat3.h:77:8: error: request for member ‘xx’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:77:17: error: request for member ‘xy’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:77:26: error: request for member ‘xz’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:78:8: error: request for member ‘yx’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:78:17: error: request for member ‘yy’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:78:26: error: request for member ‘yz’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:79:8: error: request for member ‘zx’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:79:17: error: request for member ‘zy’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h:79:26: error: request for member ‘zz’ in ‘M’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::setT(const int&, const int&, const int&)’:
+include/Mat3.h:83:3: error: ‘a’ was not declared in this scope
+include/Mat3.h:83:13: error: request for member ‘x’ in ‘va’, which is of non-class type ‘const int’
+include/Mat3.h:83:19: error: request for member ‘x’ in ‘vb’, which is of non-class type ‘const int’
+include/Mat3.h:83:25: error: request for member ‘x’ in ‘vc’, which is of non-class type ‘const int’
+include/Mat3.h:84:3: error: ‘b’ was not declared in this scope
+include/Mat3.h:84:13: error: request for member ‘y’ in ‘va’, which is of non-class type ‘const int’
+include/Mat3.h:84:19: error: request for member ‘y’ in ‘vb’, which is of non-class type ‘const int’
+include/Mat3.h:84:25: error: request for member ‘y’ in ‘vc’, which is of non-class type ‘const int’
+include/Mat3.h:85:3: error: ‘c’ was not declared in this scope
+include/Mat3.h:85:13: error: request for member ‘z’ in ‘va’, which is of non-class type ‘const int’
+include/Mat3.h:85:19: error: request for member ‘z’ in ‘vb’, which is of non-class type ‘const int’
+include/Mat3.h:85:25: error: request for member ‘z’ in ‘vc’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::dot_to(const int&, int&) const’:
+include/Mat3.h:99:8: error: request for member ‘x’ in ‘vout’, which is of non-class type ‘int’
+include/Mat3.h:99:17: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:99:26: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:99:35: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:100:8: error: request for member ‘y’ in ‘vout’, which is of non-class type ‘int’
+include/Mat3.h:100:17: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:100:26: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:100:35: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:101:8: error: request for member ‘z’ in ‘vout’, which is of non-class type ‘int’
+include/Mat3.h:101:17: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:101:26: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:101:35: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::dot_to_T(const int&, int&) const’:
+include/Mat3.h:105:8: error: request for member ‘x’ in ‘vout’, which is of non-class type ‘int’
+include/Mat3.h:105:17: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:105:26: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:105:35: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:106:8: error: request for member ‘y’ in ‘vout’, which is of non-class type ‘int’
+include/Mat3.h:106:17: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:106:26: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:106:35: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:107:8: error: request for member ‘z’ in ‘vout’, which is of non-class type ‘int’
+include/Mat3.h:107:17: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:107:26: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h:107:35: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::set_mmul(const int&, const int&)’:
+include/Mat3.h:113:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:113:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:113:22: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:113:27: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:113:34: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:113:39: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:114:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:114:15: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:114:22: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:114:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:114:34: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:114:39: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:115:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:115:15: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:115:22: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:115:27: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:115:34: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:115:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:116:10: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:116:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:116:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:116:27: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:116:34: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:116:39: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:117:10: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:117:15: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:117:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:117:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:117:34: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:117:39: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:118:10: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:118:15: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:118:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:118:27: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:118:34: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:118:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:119:10: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:119:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:119:22: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:119:27: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:119:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:119:39: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:120:10: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:120:15: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:120:22: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:120:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:120:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:120:39: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:121:10: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:121:15: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:121:22: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:121:27: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:121:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:121:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::set_mmul_NT(const int&, const int&)’:
+include/Mat3.h:125:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:125:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:125:22: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:125:27: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:125:34: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:125:39: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:126:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:126:15: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:126:22: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:126:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:126:34: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:126:39: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:127:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:127:15: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:127:22: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:127:27: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:127:34: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:127:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:128:10: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:128:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:128:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:128:27: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:128:34: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:128:39: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:129:10: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:129:15: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:129:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:129:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:129:34: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:129:39: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:130:10: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:130:15: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:130:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:130:27: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:130:34: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:130:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:131:10: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:131:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:131:22: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:131:27: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:131:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:131:39: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:132:10: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:132:15: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:132:22: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:132:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:132:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:132:39: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:133:10: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:133:15: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:133:22: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:133:27: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:133:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:133:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::set_mmul_TN(const int&, const int&)’:
+include/Mat3.h:137:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:137:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:137:22: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:137:27: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:137:34: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:137:39: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:138:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:138:15: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:138:22: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:138:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:138:34: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:138:39: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:139:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:139:15: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:139:22: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:139:27: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:139:34: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:139:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:140:10: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:140:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:140:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:140:27: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:140:34: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:140:39: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:141:10: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:141:15: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:141:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:141:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:141:34: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:141:39: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:142:10: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:142:15: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:142:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:142:27: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:142:34: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:142:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:143:10: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:143:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:143:22: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:143:27: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:143:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:143:39: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:144:10: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:144:15: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:144:22: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:144:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:144:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:144:39: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:145:10: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:145:15: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:145:22: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:145:27: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:145:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:145:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::set_mmul_TT(const int&, const int&)’:
+include/Mat3.h:149:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:149:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:149:22: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:149:27: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:149:34: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:149:39: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:150:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:150:15: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:150:22: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:150:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:150:34: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:150:39: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:151:10: error: request for member ‘xx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:151:15: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:151:22: error: request for member ‘yx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:151:27: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:151:34: error: request for member ‘zx’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:151:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:152:10: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:152:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:152:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:152:27: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:152:34: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:152:39: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:153:10: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:153:15: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:153:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:153:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:153:34: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:153:39: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:154:10: error: request for member ‘xy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:154:15: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:154:22: error: request for member ‘yy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:154:27: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:154:34: error: request for member ‘zy’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:154:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:155:10: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:155:15: error: request for member ‘xx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:155:22: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:155:27: error: request for member ‘xy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:155:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:155:39: error: request for member ‘xz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:156:10: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:156:15: error: request for member ‘yx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:156:22: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:156:27: error: request for member ‘yy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:156:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:156:39: error: request for member ‘yz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:157:10: error: request for member ‘xz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:157:15: error: request for member ‘zx’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:157:22: error: request for member ‘yz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:157:27: error: request for member ‘zy’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h:157:34: error: request for member ‘zz’ in ‘A’, which is of non-class type ‘const int’
+include/Mat3.h:157:39: error: request for member ‘zz’ in ‘B’, which is of non-class type ‘const int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::invert_to(int&)’:
+include/Mat3.h:172:14: error: request for member ‘xx’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:173:14: error: request for member ‘xy’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:174:14: error: request for member ‘xz’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:175:14: error: request for member ‘yx’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:176:14: error: request for member ‘yy’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:177:14: error: request for member ‘yz’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:178:14: error: request for member ‘zx’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:179:14: error: request for member ‘zy’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:180:14: error: request for member ‘zz’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h: In member function ‘void Mat3TYPE<TYPE>::adjoint_to(int&)’:
+include/Mat3.h:184:14: error: request for member ‘xx’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:185:14: error: request for member ‘xy’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:186:14: error: request for member ‘xz’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:187:14: error: request for member ‘yx’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:188:14: error: request for member ‘yy’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:189:14: error: request for member ‘yz’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:190:14: error: request for member ‘zx’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:191:14: error: request for member ‘zy’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h:192:14: error: request for member ‘zz’ in ‘Mout’, which is of non-class type ‘int’
+include/Mat3.h: At global scope:
+include/Mat3.h:203:7: error: expected nested-name-specifier before ‘Mat3i’
+include/Mat3.h:203:7: error: ‘Mat3i’ has not been declared
+include/Mat3.h:203:13: error: expected ‘;’ before ‘=’ token
+include/Mat3.h:203:13: error: expected unqualified-id before ‘=’ token
+include/Mat3.h:204:7: error: expected nested-name-specifier before ‘Mat3f’
+include/Mat3.h:204:7: error: ‘Mat3f’ has not been declared
+include/Mat3.h:204:13: error: expected ‘;’ before ‘=’ token
+include/Mat3.h:204:13: error: expected unqualified-id before ‘=’ token
+include/Mat3.h:205:7: error: expected nested-name-specifier before ‘Mat3d’
+include/Mat3.h:205:7: error: ‘Mat3d’ has not been declared
+include/Mat3.h:205:13: error: expected ‘;’ before ‘=’ token
+include/Mat3.h:205:13: error: expected unqualified-id before ‘=’ token
+In file included from SDLapp.cpp:13:0:
+include/quaternion.h:10:8: error: expected nested-name-specifier before ‘VEC’
+include/quaternion.h:10:8: error: using-declaration for non-member at class scope
+include/quaternion.h:10:13: error: expected ‘;’ before ‘=’ token
+include/quaternion.h:10:13: error: expected unqualified-id before ‘=’ token
+include/quaternion.h:11:8: error: expected nested-name-specifier before ‘MAT’
+include/quaternion.h:11:8: error: using-declaration for non-member at class scope
+include/quaternion.h:11:13: error: expected ‘;’ before ‘=’ token
+include/quaternion.h:11:13: error: expected unqualified-id before ‘=’ token
+include/quaternion.h:12:8: error: expected nested-name-specifier before ‘QUAT’
+include/quaternion.h:12:8: error: using-declaration for non-member at class scope
+include/quaternion.h:12:13: error: expected ‘;’ before ‘=’ token
+include/quaternion.h:12:13: error: expected unqualified-id before ‘=’ token
+include/quaternion.h:19:29: error: ‘QUAT’ does not name a type
+include/quaternion.h:19:35: error: ISO C++ forbids declaration of ‘q’ with no type [-fpermissive]
+In file included from SDLapp.cpp:13:0:
+include/quaternion.h:28:36: error: ‘QUAT’ does not name a type
+include/quaternion.h:28:42: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/quaternion.h:29:36: error: ‘QUAT’ does not name a type
+include/quaternion.h:29:42: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/quaternion.h:30:33: error: ‘QUAT’ does not name a type
+include/quaternion.h:30:39: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/quaternion.h:30:48: error: ‘QUAT’ does not name a type
+include/quaternion.h:30:54: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/quaternion.h:31:33: error: ‘QUAT’ does not name a type
+include/quaternion.h:31:39: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/quaternion.h:31:48: error: ‘QUAT’ does not name a type
+include/quaternion.h:31:54: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/quaternion.h:32:33: error: ‘QUAT’ does not name a type
+include/quaternion.h:32:39: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/quaternion.h:33:33: error: ‘QUAT’ does not name a type
+include/quaternion.h:33:39: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/quaternion.h:33:48: error: ‘QUAT’ does not name a type
+include/quaternion.h:33:54: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/quaternion.h:35:24: error: ‘QUAT’ has not been declared
+include/quaternion.h:47:29: error: ‘QUAT’ does not name a type
+include/quaternion.h:47:35: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/quaternion.h:47:44: error: ‘QUAT’ does not name a type
+include/quaternion.h:47:50: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/quaternion.h:54:29: error: ‘QUAT’ does not name a type
+include/quaternion.h:54:35: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/quaternion.h:76:47: error: ‘VEC’ does not name a type
+include/quaternion.h:76:52: error: ISO C++ forbids declaration of ‘axis’ with no type [-fpermissive]
+include/quaternion.h:90:42: error: ‘VEC’ does not name a type
+include/quaternion.h:90:47: error: ISO C++ forbids declaration of ‘omega’ with no type [-fpermissive]
+include/quaternion.h:110:38: error: ‘VEC’ has not been declared
+include/quaternion.h:131:24: error: ‘MAT’ has not been declared
+include/quaternion.h:154:32: error: ‘MAT’ has not been declared
+include/quaternion.h:176:33: error: ‘MAT’ has not been declared
+include/quaternion.h:201:39: error: ‘VEC’ does not name a type
+include/quaternion.h:201:44: error: ISO C++ forbids declaration of ‘p’ with no type [-fpermissive]
+include/quaternion.h:201:53: error: ‘VEC’ does not name a type
+include/quaternion.h:201:58: error: ISO C++ forbids declaration of ‘fp’ with no type [-fpermissive]
+include/quaternion.h:201:62: error: ‘QUAT’ has not been declared
+include/quaternion.h:227:32: error: ‘VEC’ does not name a type
+include/quaternion.h:227:37: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/quaternion.h:227:46: error: ‘VEC’ does not name a type
+include/quaternion.h:227:51: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/quaternion.h:227:60: error: ‘VEC’ does not name a type
+include/quaternion.h:227:65: error: ISO C++ forbids declaration of ‘c’ with no type [-fpermissive]
+include/quaternion.h:228:32: error: ‘MAT’ does not name a type
+include/quaternion.h:228:37: error: ISO C++ forbids declaration of ‘M’ with no type [-fpermissive]
+In file included from SDLapp.cpp:13:0:
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::set(const int&)’:
+include/quaternion.h:19:64: error: request for member ‘x’ in ‘q’, which is of non-class type ‘const int’
+include/quaternion.h:19:71: error: request for member ‘y’ in ‘q’, which is of non-class type ‘const int’
+include/quaternion.h:19:78: error: request for member ‘z’ in ‘q’, which is of non-class type ‘const int’
+include/quaternion.h:19:85: error: request for member ‘w’ in ‘q’, which is of non-class type ‘const int’
+In file included from SDLapp.cpp:13:0:
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::add(const int&)’:
+include/quaternion.h:28:75: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/quaternion.h:28:92: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/quaternion.h:28:108: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/quaternion.h:28:124: error: request for member ‘w’ in ‘v’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::sub(const int&)’:
+include/quaternion.h:29:75: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/quaternion.h:29:92: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/quaternion.h:29:108: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/quaternion.h:29:124: error: request for member ‘w’ in ‘v’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::set_add(const int&, const int&)’:
+include/quaternion.h:30:72: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:30:76: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:30:89: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:30:93: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:30:105: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:30:109: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:30:121: error: request for member ‘w’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:30:125: error: request for member ‘w’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::set_sub(const int&, const int&)’:
+include/quaternion.h:31:72: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:31:76: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:31:89: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:31:93: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:31:105: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:31:109: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:31:121: error: request for member ‘w’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:31:125: error: request for member ‘w’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::add_mul(const int&, TYPE)’:
+include/quaternion.h:32:72: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:32:89: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:32:105: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:32:121: error: request for member ‘w’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::set_add_mul(const int&, const int&, TYPE)’:
+include/quaternion.h:33:72: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:33:80: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:33:89: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:33:97: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:33:105: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:33:113: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:33:121: error: request for member ‘w’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:33:129: error: request for member ‘w’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘TYPE Quat4TYPE<TYPE>::dot(int)’:
+include/quaternion.h:35:55: error: request for member ‘w’ in ‘q’, which is of non-class type ‘int’
+include/quaternion.h:35:63: error: request for member ‘x’ in ‘q’, which is of non-class type ‘int’
+include/quaternion.h:35:71: error: request for member ‘y’ in ‘q’, which is of non-class type ‘int’
+include/quaternion.h:35:79: error: request for member ‘z’ in ‘q’, which is of non-class type ‘int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::setQmul(const int&, const int&)’:
+include/quaternion.h:48:16: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:48:22: error: request for member ‘w’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:48:28: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:48:34: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:48:40: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:48:46: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:48:52: error: request for member ‘w’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:48:58: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:49:16: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:49:22: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:49:28: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:49:34: error: request for member ‘w’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:49:40: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:49:46: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:49:52: error: request for member ‘w’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:49:58: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:50:16: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:50:22: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:50:28: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:50:34: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:50:40: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:50:46: error: request for member ‘w’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:50:52: error: request for member ‘w’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:50:58: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:51:16: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:51:22: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:51:28: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:51:34: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:51:40: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:51:46: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:51:52: error: request for member ‘w’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:51:58: error: request for member ‘w’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::qmul(const int&)’:
+include/quaternion.h:55:21: error: request for member ‘w’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:55:31: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:55:41: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:55:51: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::fromAngleAxis(TYPE, const int&)’:
+include/quaternion.h:77:22: error: request for member ‘norm’ in ‘axis’, which is of non-class type ‘const int’
+include/quaternion.h:78:3: error: ‘VEC’ was not declared in this scope
+include/quaternion.h:78:8: error: expected ‘;’ before ‘hat’
+include/quaternion.h:82:12: error: ‘hat’ was not declared in this scope
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::dRot_exact(TYPE, const int&)’:
+include/quaternion.h:91:21: error: request for member ‘x’ in ‘omega’, which is of non-class type ‘const int’
+include/quaternion.h:92:21: error: request for member ‘y’ in ‘omega’, which is of non-class type ‘const int’
+include/quaternion.h:93:21: error: request for member ‘z’ in ‘omega’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::dRot_taylor2(TYPE, int&)’:
+include/quaternion.h:111:21: error: request for member ‘x’ in ‘omega’, which is of non-class type ‘int’
+include/quaternion.h:112:21: error: request for member ‘y’ in ‘omega’, which is of non-class type ‘int’
+include/quaternion.h:113:21: error: request for member ‘z’ in ‘omega’, which is of non-class type ‘int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::toMatrix(int&) const’:
+include/quaternion.h:142:14: error: request for member ‘xx’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:143:14: error: request for member ‘xy’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:144:14: error: request for member ‘xz’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:145:14: error: request for member ‘yx’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:146:14: error: request for member ‘yy’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:147:14: error: request for member ‘yz’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:148:14: error: request for member ‘zx’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:149:14: error: request for member ‘zy’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:150:14: error: request for member ‘zz’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::toMatrix_unitary(int&) const’:
+include/quaternion.h:164:10: error: request for member ‘xx’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:165:10: error: request for member ‘xy’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:166:10: error: request for member ‘xz’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:167:10: error: request for member ‘yx’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:168:10: error: request for member ‘yy’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:169:10: error: request for member ‘yz’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:170:10: error: request for member ‘zx’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:171:10: error: request for member ‘zy’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:172:10: error: request for member ‘zz’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::toMatrix_unitary2(int&) const’:
+include/quaternion.h:189:10: error: request for member ‘xx’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:190:10: error: request for member ‘xy’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:191:10: error: request for member ‘xz’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:192:10: error: request for member ‘yx’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:193:10: error: request for member ‘yy’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:194:10: error: request for member ‘yz’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:195:10: error: request for member ‘zx’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:196:10: error: request for member ‘zy’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h:197:10: error: request for member ‘zz’ in ‘result’, which is of non-class type ‘int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::addForceFromPoint(const int&, const int&, int&) const’:
+include/quaternion.h:204:20: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:204:40: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:205:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:205:30: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:205:40: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:206:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:206:30: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:206:40: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:207:6: error: request for member ‘x’ in ‘fq’, which is of non-class type ‘int’
+include/quaternion.h:207:18: error: request for member ‘x’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:207:34: error: request for member ‘y’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:207:49: error: request for member ‘z’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:209:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:209:30: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:209:40: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:210:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:210:40: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:211:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:211:30: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:211:40: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:212:6: error: request for member ‘y’ in ‘fq’, which is of non-class type ‘int’
+include/quaternion.h:212:18: error: request for member ‘x’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:212:34: error: request for member ‘y’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:212:49: error: request for member ‘z’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:214:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:214:30: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:214:40: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:215:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:215:30: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:215:40: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:216:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:216:30: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:217:6: error: request for member ‘z’ in ‘fq’, which is of non-class type ‘int’
+include/quaternion.h:217:18: error: request for member ‘x’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:217:34: error: request for member ‘y’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:217:49: error: request for member ‘z’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:219:20: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:219:30: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:220:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:220:30: error: request for member ‘c’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:221:20: error: request for member ‘a’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:221:30: error: request for member ‘b’ in ‘p’, which is of non-class type ‘const int’
+include/quaternion.h:222:6: error: request for member ‘w’ in ‘fq’, which is of non-class type ‘int’
+include/quaternion.h:222:18: error: request for member ‘x’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:222:34: error: request for member ‘y’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h:222:49: error: request for member ‘z’ in ‘fp’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::fromMatrix(const int&, const int&, const int&)’:
+include/quaternion.h:227:85: error: request for member ‘x’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:227:91: error: request for member ‘y’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:227:97: error: request for member ‘z’ in ‘a’, which is of non-class type ‘const int’
+include/quaternion.h:227:103: error: request for member ‘x’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:227:109: error: request for member ‘y’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:227:115: error: request for member ‘z’ in ‘b’, which is of non-class type ‘const int’
+include/quaternion.h:227:121: error: request for member ‘x’ in ‘c’, which is of non-class type ‘const int’
+include/quaternion.h:227:127: error: request for member ‘y’ in ‘c’, which is of non-class type ‘const int’
+include/quaternion.h:227:133: error: request for member ‘z’ in ‘c’, which is of non-class type ‘const int’
+include/quaternion.h: In member function ‘void Quat4TYPE<TYPE>::fromMatrix(const int&)’:
+include/quaternion.h:228:85: error: request for member ‘ax’ in ‘M’, which is of non-class type ‘const int’
+include/quaternion.h:228:91: error: request for member ‘ay’ in ‘M’, which is of non-class type ‘const int’
+include/quaternion.h:228:97: error: request for member ‘az’ in ‘M’, which is of non-class type ‘const int’
+include/quaternion.h:228:103: error: request for member ‘bx’ in ‘M’, which is of non-class type ‘const int’
+include/quaternion.h:228:109: error: request for member ‘by’ in ‘M’, which is of non-class type ‘const int’
+include/quaternion.h:228:115: error: request for member ‘bz’ in ‘M’, which is of non-class type ‘const int’
+include/quaternion.h:228:121: error: request for member ‘cx’ in ‘M’, which is of non-class type ‘const int’
+include/quaternion.h:228:127: error: request for member ‘cy’ in ‘M’, which is of non-class type ‘const int’
+include/quaternion.h:228:133: error: request for member ‘cz’ in ‘M’, which is of non-class type ‘const int’
+include/quaternion.h: At global scope:
+include/quaternion.h:276:7: error: expected nested-name-specifier before ‘Quat4i’
+include/quaternion.h:276:7: error: ‘Quat4i’ has not been declared
+include/quaternion.h:276:14: error: expected ‘;’ before ‘=’ token
+include/quaternion.h:276:14: error: expected unqualified-id before ‘=’ token
+include/quaternion.h:277:7: error: expected nested-name-specifier before ‘Quat4f’
+include/quaternion.h:277:7: error: ‘Quat4f’ has not been declared
+include/quaternion.h:277:14: error: expected ‘;’ before ‘=’ token
+include/quaternion.h:277:14: error: expected unqualified-id before ‘=’ token
+include/quaternion.h:278:7: error: expected nested-name-specifier before ‘Quat4d’
+include/quaternion.h:278:7: error: ‘Quat4d’ has not been declared
+include/quaternion.h:278:14: error: expected ‘;’ before ‘=’ token
+include/quaternion.h:278:14: error: expected unqualified-id before ‘=’ token
+In file included from SDLapp.cpp:14:0:
+include/raytrace.h:4:40: error: ‘Vec3d’ does not name a type
+include/raytrace.h:4:47: error: ISO C++ forbids declaration of ‘ray0’ with no type [-fpermissive]
+include/raytrace.h:4:59: error: ‘Vec3d’ does not name a type
+include/raytrace.h:4:66: error: ISO C++ forbids declaration of ‘hRay’ with no type [-fpermissive]
+include/raytrace.h:4:78: error: ‘Vec3d’ does not name a type
+include/raytrace.h:4:85: error: ISO C++ forbids declaration of ‘point’ with no type [-fpermissive]
+include/raytrace.h: In function ‘double rayPointDistance2(const int&, const int&, const int&, double&)’:
+include/raytrace.h:5:2: error: ‘Vec3d’ was not declared in this scope
+include/raytrace.h:5:8: error: expected ‘;’ before ‘pt’
+include/raytrace.h:6:2: error: ‘pt’ was not declared in this scope
+In file included from SDLapp.cpp:14:0:
+include/raytrace.h: At global scope:
+include/raytrace.h:13:32: error: ‘Vec3d’ does not name a type
+include/raytrace.h:13:39: error: ISO C++ forbids declaration of ‘ray0’ with no type [-fpermissive]
+include/raytrace.h:13:51: error: ‘Vec3d’ does not name a type
+include/raytrace.h:13:58: error: ISO C++ forbids declaration of ‘hRay’ with no type [-fpermissive]
+include/raytrace.h:13:80: error: ‘Vec3d’ does not name a type
+include/raytrace.h:13:87: error: ISO C++ forbids declaration of ‘center’ with no type [-fpermissive]
+include/raytrace.h:26:43: error: ‘Vec3d’ does not name a type
+include/raytrace.h:26:50: error: ISO C++ forbids declaration of ‘ray0’ with no type [-fpermissive]
+include/raytrace.h:26:62: error: ‘Vec3d’ does not name a type
+include/raytrace.h:26:69: error: ISO C++ forbids declaration of ‘hRay’ with no type [-fpermissive]
+include/raytrace.h:26:81: error: ‘Vec3d’ does not name a type
+include/raytrace.h:26:88: error: ISO C++ forbids declaration of ‘center’ with no type [-fpermissive]
+include/raytrace.h:26:96: error: ‘Vec3d’ has not been declared
+include/raytrace.h: In function ‘void sphereNormal(double, const int&, const int&, const int&, int&)’:
+include/raytrace.h:27:9: error: request for member ‘set_sub’ in ‘normal’, which is of non-class type ‘int’
+include/raytrace.h:28:9: error: request for member ‘add_mul’ in ‘normal’, which is of non-class type ‘int’
+In file included from SDLapp.cpp:17:0:
+include/drawMath.h: At global scope:
+include/drawMath.h:4:22: error: ‘Vec3d’ does not name a type
+include/drawMath.h:4:29: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void printVec(const int&)’:
+include/drawMath.h:5:28: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/drawMath.h:5:33: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/drawMath.h:5:38: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:31:28: error: ‘Vec3d’ does not name a type
+include/drawMath.h:31:35: error: ISO C++ forbids declaration of ‘pos’ with no type [-fpermissive]
+include/drawMath.h:31:46: error: ‘Mat3d’ does not name a type
+include/drawMath.h:31:53: error: ISO C++ forbids declaration of ‘rot’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void toGLMat(const int&, const int&, float*)’:
+include/drawMath.h:32:25: error: request for member ‘ax’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:32:54: error: request for member ‘ay’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:32:83: error: request for member ‘az’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:33:25: error: request for member ‘bx’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:33:54: error: request for member ‘by’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:33:83: error: request for member ‘bz’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:34:25: error: request for member ‘cx’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:34:54: error: request for member ‘cy’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:34:83: error: request for member ‘cz’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:35:26: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:35:55: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:35:84: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:38:31: error: ‘Vec3d’ does not name a type
+include/drawMath.h:38:38: error: ISO C++ forbids declaration of ‘pos’ with no type [-fpermissive]
+include/drawMath.h:38:49: error: ‘Mat3d’ does not name a type
+include/drawMath.h:38:56: error: ISO C++ forbids declaration of ‘rot’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void toGLMatCam(const int&, const int&, float*)’:
+include/drawMath.h:39:25: error: request for member ‘ax’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:39:54: error: request for member ‘bx’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:39:84: error: request for member ‘cx’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:40:25: error: request for member ‘ay’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:40:54: error: request for member ‘by’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:40:84: error: request for member ‘cy’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:41:25: error: request for member ‘az’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:41:54: error: request for member ‘bz’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:41:84: error: request for member ‘cz’ in ‘rot’, which is of non-class type ‘const int’
+include/drawMath.h:42:27: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:42:56: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:42:85: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:45:23: error: ‘Vec3d’ does not name a type
+include/drawMath.h:45:30: error: ISO C++ forbids declaration of ‘vec’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void drawPoint(const int&)’:
+include/drawMath.h:48:19: error: request for member ‘x’ in ‘vec’, which is of non-class type ‘const int’
+include/drawMath.h:48:26: error: request for member ‘y’ in ‘vec’, which is of non-class type ‘const int’
+include/drawMath.h:48:33: error: request for member ‘z’ in ‘vec’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:52:21: error: ‘Vec3d’ does not name a type
+include/drawMath.h:52:28: error: ISO C++ forbids declaration of ‘vec’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void drawVec(const int&)’:
+include/drawMath.h:55:42: error: request for member ‘x’ in ‘vec’, which is of non-class type ‘const int’
+include/drawMath.h:55:49: error: request for member ‘y’ in ‘vec’, which is of non-class type ‘const int’
+include/drawMath.h:55:56: error: request for member ‘z’ in ‘vec’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:59:26: error: ‘Vec3d’ does not name a type
+include/drawMath.h:59:33: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/drawMath.h:59:42: error: ‘Vec3d’ does not name a type
+include/drawMath.h:59:49: error: ISO C++ forbids declaration of ‘pos’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void drawVecInPos(const int&, const int&)’:
+include/drawMath.h:62:19: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:62:26: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:62:33: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:62:54: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:62:58: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/drawMath.h:62:65: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:62:69: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/drawMath.h:62:76: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:62:80: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:66:22: error: ‘Vec3d’ does not name a type
+include/drawMath.h:66:29: error: ISO C++ forbids declaration of ‘p1’ with no type [-fpermissive]
+include/drawMath.h:66:39: error: ‘Vec3d’ does not name a type
+include/drawMath.h:66:46: error: ISO C++ forbids declaration of ‘p2’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void drawLine(const int&, const int&)’:
+include/drawMath.h:69:18: error: request for member ‘x’ in ‘p1’, which is of non-class type ‘const int’
+include/drawMath.h:69:24: error: request for member ‘y’ in ‘p1’, which is of non-class type ‘const int’
+include/drawMath.h:69:30: error: request for member ‘z’ in ‘p1’, which is of non-class type ‘const int’
+include/drawMath.h:69:50: error: request for member ‘x’ in ‘p2’, which is of non-class type ‘const int’
+include/drawMath.h:69:56: error: request for member ‘y’ in ‘p2’, which is of non-class type ‘const int’
+include/drawMath.h:69:62: error: request for member ‘z’ in ‘p2’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:76:26: error: ‘Vec3f’ does not name a type
+include/drawMath.h:76:33: error: ISO C++ forbids declaration of ‘v’ with no type [-fpermissive]
+include/drawMath.h:76:42: error: ‘Vec3f’ does not name a type
+include/drawMath.h:76:49: error: ISO C++ forbids declaration of ‘pos’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void drawVecInPos(const int&, const int&)’:
+include/drawMath.h:76:6: error: redefinition of ‘void drawVecInPos(const int&, const int&)’
+include/drawMath.h:59:6: error: ‘void drawVecInPos(const int&, const int&)’ previously defined here
+include/drawMath.h:79:19: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:79:26: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:79:33: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:79:54: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:79:58: error: request for member ‘x’ in ‘v’, which is of non-class type ‘const int’
+include/drawMath.h:79:65: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:79:69: error: request for member ‘y’ in ‘v’, which is of non-class type ‘const int’
+include/drawMath.h:79:76: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:79:80: error: request for member ‘z’ in ‘v’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:101:26: error: ‘Vec3d’ does not name a type
+include/drawMath.h:101:33: error: ISO C++ forbids declaration of ‘p1’ with no type [-fpermissive]
+include/drawMath.h:101:43: error: ‘Vec3d’ does not name a type
+include/drawMath.h:101:50: error: ISO C++ forbids declaration of ‘p2’ with no type [-fpermissive]
+include/drawMath.h:101:60: error: ‘Vec3d’ does not name a type
+include/drawMath.h:101:67: error: ISO C++ forbids declaration of ‘p3’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void drawTriangle(const int&, const int&, const int&)’:
+include/drawMath.h:102:2: error: ‘Vec3d’ was not declared in this scope
+include/drawMath.h:102:8: error: expected ‘;’ before ‘d1’
+include/drawMath.h:103:2: error: ‘d1’ was not declared in this scope
+include/drawMath.h:104:2: error: ‘d2’ was not declared in this scope
+include/drawMath.h:105:2: error: ‘normal’ was not declared in this scope
+include/drawMath.h:109:18: error: request for member ‘x’ in ‘p1’, which is of non-class type ‘const int’
+include/drawMath.h:109:24: error: request for member ‘y’ in ‘p1’, which is of non-class type ‘const int’
+include/drawMath.h:109:30: error: request for member ‘z’ in ‘p1’, which is of non-class type ‘const int’
+include/drawMath.h:110:18: error: request for member ‘x’ in ‘p2’, which is of non-class type ‘const int’
+include/drawMath.h:110:24: error: request for member ‘y’ in ‘p2’, which is of non-class type ‘const int’
+include/drawMath.h:110:30: error: request for member ‘z’ in ‘p2’, which is of non-class type ‘const int’
+include/drawMath.h:111:18: error: request for member ‘x’ in ‘p2’, which is of non-class type ‘const int’
+include/drawMath.h:111:24: error: request for member ‘y’ in ‘p2’, which is of non-class type ‘const int’
+include/drawMath.h:111:30: error: request for member ‘z’ in ‘p2’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:115:26: error: ‘Mat3d’ does not name a type
+include/drawMath.h:115:33: error: ISO C++ forbids declaration of ‘mat’ with no type [-fpermissive]
+include/drawMath.h:115:44: error: ‘Vec3d’ does not name a type
+include/drawMath.h:115:51: error: ISO C++ forbids declaration of ‘pos’ with no type [-fpermissive]
+include/drawMath.h: In function ‘void drawMatInPos(const int&, const int&)’:
+include/drawMath.h:118:41: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:118:48: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:118:55: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:118:76: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:118:82: error: request for member ‘xx’ in ‘mat’, which is of non-class type ‘const int’
+include/drawMath.h:118:90: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:118:96: error: request for member ‘xy’ in ‘mat’, which is of non-class type ‘const int’
+include/drawMath.h:118:104: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:118:110: error: request for member ‘xz’ in ‘mat’, which is of non-class type ‘const int’
+include/drawMath.h:119:41: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:119:48: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:119:55: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:119:76: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:119:82: error: request for member ‘yx’ in ‘mat’, which is of non-class type ‘const int’
+include/drawMath.h:119:90: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:119:96: error: request for member ‘yy’ in ‘mat’, which is of non-class type ‘const int’
+include/drawMath.h:119:104: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:119:110: error: request for member ‘yz’ in ‘mat’, which is of non-class type ‘const int’
+include/drawMath.h:120:41: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:120:48: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:120:55: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:120:76: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:120:82: error: request for member ‘zx’ in ‘mat’, which is of non-class type ‘const int’
+include/drawMath.h:120:90: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:120:96: error: request for member ‘zy’ in ‘mat’, which is of non-class type ‘const int’
+include/drawMath.h:120:104: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:120:110: error: request for member ‘zz’ in ‘mat’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:128:40: error: ‘Vec3f’ does not name a type
+include/drawMath.h:128:47: error: ISO C++ forbids declaration of ‘base’ with no type [-fpermissive]
+include/drawMath.h:128:59: error: ‘Vec3f’ does not name a type
+include/drawMath.h:128:66: error: ISO C++ forbids declaration of ‘tip’ with no type [-fpermissive]
+include/drawMath.h: In function ‘int drawConeFan(int, float, const int&, const int&)’:
+include/drawMath.h:130:2: error: ‘Vec3f’ was not declared in this scope
+include/drawMath.h:130:8: error: expected ‘;’ before ‘a’
+include/drawMath.h:131:2: error: ‘c’ was not declared in this scope
+include/drawMath.h:132:2: error: ‘c_hat’ was not declared in this scope
+include/drawMath.h:133:22: error: ‘a’ was not declared in this scope
+include/drawMath.h:133:25: error: ‘b’ was not declared in this scope
+include/drawMath.h:159:8: error: expected ‘;’ before ‘q’
+include/drawMath.h:159:11: error: ‘q’ was not declared in this scope
+include/drawMath.h:169:18: error: request for member ‘x’ in ‘tip’, which is of non-class type ‘const int’
+include/drawMath.h:169:25: error: request for member ‘y’ in ‘tip’, which is of non-class type ‘const int’
+include/drawMath.h:169:32: error: request for member ‘z’ in ‘tip’, which is of non-class type ‘const int’
+include/drawMath.h:174:9: error: expected ‘;’ before ‘p’
+include/drawMath.h:175:3: error: ‘p’ was not declared in this scope
+include/drawMath.h:176:3: error: ‘pn’ was not declared in this scope
+In file included from SDLapp.cpp:17:0:
+include/drawMath.h:181:20: error: request for member ‘x’ in ‘base’, which is of non-class type ‘const int’
+include/drawMath.h:181:36: error: request for member ‘y’ in ‘base’, which is of non-class type ‘const int’
+include/drawMath.h:181:52: error: request for member ‘z’ in ‘base’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:194:57: error: ‘Vec3f’ does not name a type
+include/drawMath.h:194:64: error: ISO C++ forbids declaration of ‘base’ with no type [-fpermissive]
+include/drawMath.h:194:76: error: ‘Vec3f’ does not name a type
+include/drawMath.h:194:83: error: ISO C++ forbids declaration of ‘tip’ with no type [-fpermissive]
+include/drawMath.h: In function ‘int drawCylinderStrip(int, float, float, const int&, const int&)’:
+include/drawMath.h:197:2: error: ‘Vec3f’ was not declared in this scope
+include/drawMath.h:197:8: error: expected ‘;’ before ‘a’
+include/drawMath.h:198:2: error: ‘c’ was not declared in this scope
+include/drawMath.h:199:2: error: ‘c_hat’ was not declared in this scope
+include/drawMath.h:200:22: error: ‘a’ was not declared in this scope
+include/drawMath.h:200:25: error: ‘b’ was not declared in this scope
+include/drawMath.h:211:8: error: expected ‘;’ before ‘q’
+include/drawMath.h:211:11: error: ‘q’ was not declared in this scope
+include/drawMath.h:221:9: error: expected ‘;’ before ‘p’
+include/drawMath.h:222:3: error: ‘p’ was not declared in this scope
+include/drawMath.h:223:3: error: ‘pn’ was not declared in this scope
+include/drawMath.h:226:20: error: request for member ‘x’ in ‘base’, which is of non-class type ‘const int’
+include/drawMath.h:226:37: error: request for member ‘y’ in ‘base’, which is of non-class type ‘const int’
+include/drawMath.h:226:54: error: request for member ‘z’ in ‘base’, which is of non-class type ‘const int’
+include/drawMath.h:227:20: error: request for member ‘x’ in ‘tip’, which is of non-class type ‘const int’
+include/drawMath.h:227:37: error: request for member ‘y’ in ‘tip’, which is of non-class type ‘const int’
+include/drawMath.h:227:54: error: request for member ‘z’ in ‘tip’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:246:47: error: ‘Vec3f’ does not name a type
+include/drawMath.h:246:54: error: ISO C++ forbids declaration of ‘pos’ with no type [-fpermissive]
+include/drawMath.h:246:65: error: ‘Vec3f’ does not name a type
+include/drawMath.h:246:72: error: ISO C++ forbids declaration of ‘a’ with no type [-fpermissive]
+include/drawMath.h:246:81: error: ‘Vec3f’ does not name a type
+include/drawMath.h:246:88: error: ISO C++ forbids declaration of ‘b’ with no type [-fpermissive]
+include/drawMath.h:246:97: error: ‘Vec3f’ does not name a type
+include/drawMath.h:246:104: error: ISO C++ forbids declaration of ‘c’ with no type [-fpermissive]
+include/drawMath.h: In function ‘int drawSphereTriangle(int, float, const int&, const int&, const int&, const int&)’:
+include/drawMath.h:249:2: error: ‘Vec3f’ was not declared in this scope
+include/drawMath.h:249:8: error: expected ‘;’ before ‘da’
+include/drawMath.h:250:2: error: ‘da’ was not declared in this scope
+include/drawMath.h:251:2: error: ‘db’ was not declared in this scope
+include/drawMath.h:253:9: error: expected ‘;’ before ‘p0’
+include/drawMath.h:253:15: error: ‘p0’ was not declared in this scope
+include/drawMath.h:255:3: error: ‘p’ was not declared in this scope
+include/drawMath.h:260:25: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:260:38: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:260:51: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:263:10: error: expected ‘;’ before ‘p’
+include/drawMath.h:268:26: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:268:39: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:268:52: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:274:26: error: request for member ‘x’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:274:39: error: request for member ‘y’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h:274:52: error: request for member ‘z’ in ‘pos’, which is of non-class type ‘const int’
+include/drawMath.h: At global scope:
+include/drawMath.h:284:45: error: ‘Vec3d’ does not name a type
+include/drawMath.h:284:52: error: ISO C++ forbids declaration of ‘pos_’ with no type [-fpermissive]
+include/drawMath.h: In function ‘int drawSphere_oct(int, double, const int&)’:
+include/drawMath.h:286:2: error: ‘Vec3f’ was not declared in this scope
+include/drawMath.h:286:8: error: expected ‘;’ before ‘pos’
+include/drawMath.h:287:17: error: ‘pos’ was not declared in this scope
+include/drawMath.h:288:2: error: ‘px’ was not declared in this scope
+include/drawMath.h:288:18: error: ‘py’ was not declared in this scope
+include/drawMath.h:288:34: error: ‘pz’ was not declared in this scope
+include/drawMath.h:289:2: error: ‘mx’ was not declared in this scope
+include/drawMath.h:289:18: error: ‘my’ was not declared in this scope
+include/drawMath.h:289:34: error: ‘mz’ was not declared in this scope
+include/drawMath.h: At global scope:
+include/drawMath.h:301:42: error: ‘Vec3d’ has not been declared
+In file included from SDLapp.cpp:23:0:
+include/moleculeType.h:6:20: error: ISO C++ forbids initialization of member ‘nbonds’ [-fpermissive]
+include/moleculeType.h:6:20: error: making ‘nbonds’ static [-fpermissive]
+include/moleculeType.h:6:20: error: ISO C++ forbids in-class initialization of non-const static member ‘nbonds’
+include/moleculeType.h:7:20: error: ISO C++ forbids initialization of member ‘atypes’ [-fpermissive]
+include/moleculeType.h:7:20: error: making ‘atypes’ static [-fpermissive]
+include/moleculeType.h:7:20: error: invalid in-class initialization of static data member of non-integral type ‘int*’
+include/moleculeType.h:8:2: error: ‘Vec3d’ does not name a type
+include/moleculeType.h:9:20: error: ISO C++ forbids initialization of member ‘Qs’ [-fpermissive]
+include/moleculeType.h:9:20: error: making ‘Qs’ static [-fpermissive]
+include/moleculeType.h:9:20: error: invalid in-class initialization of static data member of non-integral type ‘double*’
+include/moleculeType.h:10:20: error: ISO C++ forbids initialization of member ‘bonds’ [-fpermissive]
+include/moleculeType.h:10:20: error: making ‘bonds’ static [-fpermissive]
+include/moleculeType.h:10:20: error: invalid in-class initialization of static data member of non-integral type ‘int*’
+include/moleculeType.h:11:15: error: ISO C++ forbids initialization of member ‘viewlist’ [-fpermissive]
+include/moleculeType.h:11:15: error: making ‘viewlist’ static [-fpermissive]
+include/moleculeType.h:11:15: error: ISO C++ forbids in-class initialization of non-const static member ‘viewlist’
+include/moleculeType.h: In member function ‘void MoleculeType::init()’:
+include/moleculeType.h:13:31: error: ‘bonds’ was not declared in this scope
+include/moleculeType.h: In member function ‘void MoleculeType::allocateAtoms(int)’:
+include/moleculeType.h:15:3: error: ‘atypes’ was not declared in this scope
+include/moleculeType.h:16:3: error: ‘xyzs’ was not declared in this scope
+include/moleculeType.h:16:17: error: expected type-specifier before ‘Vec3d’
+include/moleculeType.h:16:17: error: expected ‘;’ before ‘Vec3d’
+include/moleculeType.h:17:3: error: ‘Qs’ was not declared in this scope
+include/moleculeType.h: In member function ‘bool MoleculeType::loadFromFile_bas(const char*)’:
+include/moleculeType.h:37:54: error: ‘atypes’ was not declared in this scope
+include/moleculeType.h:37:66: error: ‘xyzs’ was not declared in this scope
+include/moleculeType.h:38:19: error: ‘Qs’ was not declared in this scope
+include/moleculeType.h:38:37: error: ‘Qs’ was not declared in this scope
+include/moleculeType.h: In member function ‘int MoleculeType::findBonds(double)’:
+include/moleculeType.h:53:44: error: ‘atypes’ was not declared in this scope
+include/moleculeType.h:54:5: error: ‘Vec3d’ was not declared in this scope
+include/moleculeType.h:54:11: error: expected ‘;’ before ‘d’
+include/moleculeType.h:54:14: error: ‘d’ was not declared in this scope
+include/moleculeType.h:54:25: error: ‘xyzs’ was not declared in this scope
+In file included from SDLapp.cpp:23:0:
+include/moleculeType.h:63:8: error: ‘bonds’ was not declared in this scope
+include/moleculeType.h:63:32: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+include/moleculeType.h:64:3: error: ‘bonds’ was not declared in this scope
+include/moleculeType.h: In member function ‘int MoleculeType::drawAtom(int, int, float, Uint32)’:
+include/moleculeType.h:73:66: error: ‘atypes’ was not declared in this scope
+include/moleculeType.h:73:78: error: ‘xyzs’ was not declared in this scope
+include/moleculeType.h: In member function ‘int MoleculeType::drawBond(int, int, int, float)’:
+include/moleculeType.h:78:3: error: ‘Vec3f’ was not declared in this scope
+include/moleculeType.h:78:9: error: expected ‘;’ before ‘ai’
+include/moleculeType.h:79:12: error: ‘xyzs’ was not declared in this scope
+include/moleculeType.h:79:21: error: ‘ai’ was not declared in this scope
+include/moleculeType.h:80:21: error: ‘aj’ was not declared in this scope
+include/moleculeType.h: In member function ‘int MoleculeType::makeViewCPK(int, int, float, float)’:
+include/moleculeType.h:91:94: error: ‘atypes’ was not declared in this scope
+include/moleculeType.h:93:57: error: ‘bonds’ was not declared in this scope
+include/moleculeType.h: In member function ‘void MoleculeType::toCOG_minmax()’:
+include/moleculeType.h:100:3: error: ‘Vec3d’ was not declared in this scope
+include/moleculeType.h:100:9: error: expected ‘;’ before ‘pmin’
+include/moleculeType.h:100:20: error: ‘pmin’ was not declared in this scope
+include/moleculeType.h:100:55: error: ‘pmax’ was not declared in this scope
+include/moleculeType.h:102:27: error: ‘xyzs’ was not declared in this scope
+include/moleculeType.h:107:4: error: ‘xyzs’ was not declared in this scope
+include/moleculeType.h: In member function ‘void MoleculeType::toCOG_average()’:
+include/moleculeType.h:112:3: error: ‘Vec3d’ was not declared in this scope
+include/moleculeType.h:112:9: error: expected ‘;’ before ‘cog’
+include/moleculeType.h:112:14: error: ‘cog’ was not declared in this scope
+include/moleculeType.h:113:43: error: ‘xyzs’ was not declared in this scope
+include/moleculeType.h:115:34: error: ‘xyzs’ was not declared in this scope
+In file included from SDLapp.cpp:25:0:
+include/forceField.h: At global scope:
+include/forceField.h:25:28: error: ‘Vec3d’ does not name a type
+include/forceField.h:25:35: error: ISO C++ forbids declaration of ‘dR’ with no type [-fpermissive]
+include/forceField.h:25:62: error: ‘Vec3d’ has not been declared
+include/forceField.h: In function ‘void forceLJ(const int&, double, double, int&)’:
+include/forceField.h:26:21: error: request for member ‘norm2’ in ‘dR’, which is of non-class type ‘const int’
+include/forceField.h:29:4: error: request for member ‘set_mul’ in ‘f’, which is of non-class type ‘int’
+include/forceField.h: At global scope:
+include/forceField.h:32:29: error: ‘Vec3d’ does not name a type
+include/forceField.h:32:36: error: ISO C++ forbids declaration of ‘dR’ with no type [-fpermissive]
+include/forceField.h:32:74: error: ‘Vec3d’ has not been declared
+In file included from SDLapp.cpp:25:0:
+include/forceField.h: In function ‘void forceLJE(const int&, double, double, double, int&)’:
+include/forceField.h:34:21: error: request for member ‘norm2’ in ‘dR’, which is of non-class type ‘const int’
+include/forceField.h:42:4: error: request for member ‘set_mul’ in ‘f’, which is of non-class type ‘int’
+include/forceField.h: At global scope:
+include/forceField.h:51:46: error: ‘Vec3d’ does not name a type
+include/forceField.h:51:53: error: ISO C++ forbids declaration of ‘hat’ with no type [-fpermissive]
+include/forceField.h:52:10: error: ‘Vec3d’ has not been declared
+include/forceField.h:52:22: error: ‘Vec3d’ has not been declared
+include/forceField.h: In function ‘void forceMolSurf(double, double, double, const int&, int, int*, int*)’:
+include/forceField.h:55:3: error: ‘Vec3d’ was not declared in this scope
+include/forceField.h:55:9: error: expected ‘;’ before ‘dR’
+include/forceField.h:56:21: error: request for member ‘dot’ in ‘hat’, which is of non-class type ‘const int’
+include/forceField.h:61:9: error: request for member ‘add_mul’ in ‘*(Fs + ((long unsigned int)(((long unsigned int)i) * 4ul)))’, which is of non-class type ‘int’
+include/forceField.h: At global scope:
+include/forceField.h:69:38: error: ‘Vec3d’ has not been declared
+include/forceField.h:69:51: error: ‘Vec3d’ has not been declared
+include/forceField.h:70:38: error: ‘Vec3d’ has not been declared
+include/forceField.h:70:51: error: ‘Vec3d’ has not been declared
+include/forceField.h: In function ‘void interMolForceLJE(int, int*, double*, int*, int*, int, int*, double*, int*, int*, int, double*, double*)’:
+include/forceField.h:84:4: error: ‘Vec3d’ was not declared in this scope
+include/forceField.h:84:10: error: expected ‘;’ before ‘dR’
+include/forceField.h:85:4: error: ‘dR’ was not declared in this scope
+include/forceField.h:87:39: error: ‘f’ was not declared in this scope
+include/forceField.h:88:12: error: request for member ‘add’ in ‘*(aFs + ((long unsigned int)(((long unsigned int)ia) * 4ul)))’, which is of non-class type ‘int’
+include/forceField.h:88:30: error: request for member ‘sub’ in ‘*(bFs + ((long unsigned int)(((long unsigned int)ib) * 4ul)))’, which is of non-class type ‘int’
+include/forceField.h: At global scope:
+include/forceField.h:100:24: error: ‘Vec3d’ has not been declared
+include/forceField.h:100:37: error: ‘Vec3d’ has not been declared
+include/forceField.h:101:24: error: ‘Vec3d’ has not been declared
+include/forceField.h:101:37: error: ‘Vec3d’ has not been declared
+include/forceField.h: In function ‘void interMolForceLJ(int, int*, int*, int*, int, int*, int*, int*, int, double*, double*)’:
+include/forceField.h:113:4: error: ‘Vec3d’ was not declared in this scope
+include/forceField.h:113:10: error: expected ‘;’ before ‘dR’
+include/forceField.h:114:4: error: ‘dR’ was not declared in this scope
+include/forceField.h:115:26: error: ‘f’ was not declared in this scope
+include/forceField.h:116:12: error: request for member ‘add’ in ‘*(aFs + ((long unsigned int)(((long unsigned int)ia) * 4ul)))’, which is of non-class type ‘int’
+include/forceField.h:116:30: error: request for member ‘sub’ in ‘*(bFs + ((long unsigned int)(((long unsigned int)ib) * 4ul)))’, which is of non-class type ‘int’
+In file included from SDLapp.cpp:26:0:
+include/optimizerDerivs.h: At global scope:
+include/optimizerDerivs.h:14:17: error: ISO C++ forbids initialization of member ‘stepsDone’ [-fpermissive]
+include/optimizerDerivs.h:14:17: error: making ‘stepsDone’ static [-fpermissive]
+include/optimizerDerivs.h:14:17: error: ISO C++ forbids in-class initialization of non-const static member ‘stepsDone’
+include/optimizerDerivs.h:19:20: error: ISO C++ forbids initialization of member ‘dt’ [-fpermissive]
+include/optimizerDerivs.h:19:20: error: making ‘dt’ static [-fpermissive]
+include/optimizerDerivs.h:19:20: error: ISO C++ forbids in-class initialization of non-const static member ‘dt’
+include/optimizerDerivs.h:20:20: error: ISO C++ forbids initialization of member ‘damping’ [-fpermissive]
+include/optimizerDerivs.h:20:20: error: making ‘damping’ static [-fpermissive]
+include/optimizerDerivs.h:20:20: error: ISO C++ forbids in-class initialization of non-const static member ‘damping’
+include/optimizerDerivs.h:88:21: error: ISO C++ forbids initialization of member ‘minLastNeg’ [-fpermissive]
+include/optimizerDerivs.h:88:21: error: making ‘minLastNeg’ static [-fpermissive]
+include/optimizerDerivs.h:88:21: error: ISO C++ forbids in-class initialization of non-const static member ‘minLastNeg’
+include/optimizerDerivs.h:89:21: error: ISO C++ forbids initialization of member ‘dt’ [-fpermissive]
+include/optimizerDerivs.h:89:21: error: making ‘dt’ static [-fpermissive]
+include/optimizerDerivs.h:89:21: error: ISO C++ forbids in-class initialization of non-const static member ‘dt’
+include/optimizerDerivs.h:90:21: error: ISO C++ forbids initialization of member ‘damping’ [-fpermissive]
+include/optimizerDerivs.h:90:21: error: making ‘damping’ static [-fpermissive]
+include/optimizerDerivs.h:90:21: error: ISO C++ forbids in-class initialization of non-const static member ‘damping’
+include/optimizerDerivs.h:91:21: error: ISO C++ forbids initialization of member ‘finc’ [-fpermissive]
+include/optimizerDerivs.h:91:21: error: making ‘finc’ static [-fpermissive]
+include/optimizerDerivs.h:91:21: error: ISO C++ forbids in-class initialization of non-const static member ‘finc’
+include/optimizerDerivs.h:92:21: error: ISO C++ forbids initialization of member ‘fdec’ [-fpermissive]
+include/optimizerDerivs.h:92:21: error: making ‘fdec’ static [-fpermissive]
+include/optimizerDerivs.h:92:21: error: ISO C++ forbids in-class initialization of non-const static member ‘fdec’
+include/optimizerDerivs.h:93:21: error: ISO C++ forbids initialization of member ‘falpha’ [-fpermissive]
+include/optimizerDerivs.h:93:21: error: making ‘falpha’ static [-fpermissive]
+include/optimizerDerivs.h:93:21: error: ISO C++ forbids in-class initialization of non-const static member ‘falpha’
+include/optimizerDerivs.h:94:22: error: ISO C++ forbids initialization of member ‘kickStart’ [-fpermissive]
+include/optimizerDerivs.h:94:22: error: making ‘kickStart’ static [-fpermissive]
+include/optimizerDerivs.h:94:22: error: ISO C++ forbids in-class initialization of non-const static member ‘kickStart’
+include/optimizerDerivs.h:96:21: error: ISO C++ forbids initialization of member ‘lastNeg’ [-fpermissive]
+include/optimizerDerivs.h:96:21: error: making ‘lastNeg’ static [-fpermissive]
+include/optimizerDerivs.h:96:21: error: ISO C++ forbids in-class initialization of non-const static member ‘lastNeg’
+include/optimizerDerivs.h:97:21: error: ‘OptimizerFIRE::dt’ cannot appear in a constant-expression
+include/optimizerDerivs.h:97:21: error: ISO C++ forbids initialization of member ‘dt_var’ [-fpermissive]
+include/optimizerDerivs.h:97:21: error: making ‘dt_var’ static [-fpermissive]
+include/optimizerDerivs.h:97:21: error: ISO C++ forbids in-class initialization of non-const static member ‘dt_var’
+include/optimizerDerivs.h:98:21: error: ‘OptimizerFIRE::damping’ cannot appear in a constant-expression
+include/optimizerDerivs.h:98:21: error: ISO C++ forbids initialization of member ‘damp_var’ [-fpermissive]
+include/optimizerDerivs.h:98:21: error: making ‘damp_var’ static [-fpermissive]
+include/optimizerDerivs.h:98:21: error: ISO C++ forbids in-class initialization of non-const static member ‘damp_var’
+In file included from SDLapp.cpp:27:0:
+include/physicalSystem.h:6:2: error: ‘Vec3d’ does not name a type
+include/physicalSystem.h:7:2: error: ‘Quat4d’ does not name a type
+include/physicalSystem.h:9:2: error: ‘Vec3d’ does not name a type
+include/physicalSystem.h:10:2: error: ‘Vec3d’ does not name a type
+include/physicalSystem.h:18:2: error: ‘Vec3d’ does not name a type
+In file included from SDLapp.cpp:27:0:
+include/physicalSystem.h:115:30: error: ‘Vec3d’ does not name a type
+include/physicalSystem.h:115:37: error: ISO C++ forbids declaration of ‘pos’ with no type [-fpermissive]
+include/physicalSystem.h:115:48: error: ‘Quat4d’ does not name a type
+include/physicalSystem.h:115:56: error: ISO C++ forbids declaration of ‘rot’ with no type [-fpermissive]
+include/physicalSystem.h:115:74: error: ‘Vec3d’ has not been declared
+include/physicalSystem.h:115:90: error: ‘Vec3d’ has not been declared
+include/physicalSystem.h:132:37: error: ‘Vec3d’ has not been declared
+include/physicalSystem.h:132:53: error: ‘Vec3d’ has not been declared
+include/physicalSystem.h:132:76: error: ‘Quat4d’ does not name a type
+include/physicalSystem.h:132:84: error: ISO C++ forbids declaration of ‘q’ with no type [-fpermissive]
+include/physicalSystem.h:132:88: error: ‘Vec3d’ has not been declared
+include/physicalSystem.h:132:99: error: ‘Quat4d’ has not been declared
+include/physicalSystem.h:141:37: error: ‘Vec3d’ has not been declared
+In file included from SDLapp.cpp:27:0:
+include/physicalSystem.h: In member function ‘void PhysicalSystem::initParams()’:
+include/physicalSystem.h:32:3: error: ‘pos’ was not declared in this scope
+include/physicalSystem.h:32:12: error: ‘Vec3d’ was not declared in this scope
+include/physicalSystem.h:32:19: error: expected primary-expression before ‘)’ token
+include/physicalSystem.h:33:3: error: ‘vpos’ was not declared in this scope
+include/physicalSystem.h:33:19: error: expected primary-expression before ‘)’ token
+include/physicalSystem.h:34:3: error: ‘fpos’ was not declared in this scope
+include/physicalSystem.h:34:19: error: expected primary-expression before ‘)’ token
+include/physicalSystem.h:35:3: error: ‘rot’ was not declared in this scope
+include/physicalSystem.h:35:12: error: ‘Quat4d’ was not declared in this scope
+include/physicalSystem.h:35:19: error: expected primary-expression before ‘)’ token
+include/physicalSystem.h:36:3: error: ‘vrot’ was not declared in this scope
+include/physicalSystem.h:36:19: error: expected primary-expression before ‘)’ token
+include/physicalSystem.h:37:3: error: ‘frot’ was not declared in this scope
+include/physicalSystem.h:37:19: error: expected primary-expression before ‘)’ token
+include/physicalSystem.h: In member function ‘void PhysicalSystem::initTPoints()’:
+include/physicalSystem.h:44:3: error: ‘Tps_i’ was not declared in this scope
+include/physicalSystem.h:44:15: error: expected type-specifier before ‘Vec3d’
+include/physicalSystem.h:44:15: error: expected ‘;’ before ‘Vec3d’
+include/physicalSystem.h:45:3: error: ‘Tps_j’ was not declared in this scope
+include/physicalSystem.h:45:15: error: expected type-specifier before ‘Vec3d’
+include/physicalSystem.h:45:15: error: expected ‘;’ before ‘Vec3d’
+include/physicalSystem.h:46:3: error: ‘fs_i’ was not declared in this scope
+include/physicalSystem.h:46:15: error: expected type-specifier before ‘Vec3d’
+include/physicalSystem.h:46:15: error: expected ‘;’ before ‘Vec3d’
+include/physicalSystem.h:47:3: error: ‘fs_j’ was not declared in this scope
+include/physicalSystem.h:47:15: error: expected type-specifier before ‘Vec3d’
+include/physicalSystem.h:47:15: error: expected ‘;’ before ‘Vec3d’
+include/physicalSystem.h: In constructor ‘PhysicalSystem::PhysicalSystem(const char*, MoleculeType*)’:
+include/physicalSystem.h:65:4: error: ‘Mat3d’ was not declared in this scope
+include/physicalSystem.h:65:10: error: expected ‘;’ before ‘M’
+include/physicalSystem.h:66:81: error: ‘pos’ was not declared in this scope
+include/physicalSystem.h:66:117: error: ‘M’ was not declared in this scope
+In file included from SDLapp.cpp:27:0:
+include/physicalSystem.h:72:4: error: ‘rot’ was not declared in this scope
+include/physicalSystem.h: In member function ‘void PhysicalSystem::transformPoints(const int&, const int&, int, int*, int*)’:
+include/physicalSystem.h:116:3: error: ‘Mat3d’ was not declared in this scope
+include/physicalSystem.h:116:9: error: expected ‘;’ before ‘T’
+include/physicalSystem.h:118:7: error: request for member ‘toMatrix’ in ‘rot’, which is of non-class type ‘const int’
+include/physicalSystem.h:118:17: error: ‘T’ was not declared in this scope
+include/physicalSystem.h:125:4: error: ‘Vec3d’ was not declared in this scope
+include/physicalSystem.h:125:10: error: expected ‘;’ before ‘Tp’
+include/physicalSystem.h:126:30: error: ‘Tp’ was not declared in this scope
+include/physicalSystem.h:128:15: error: request for member ‘set_add’ in ‘*(Tpoints + ((long unsigned int)(((long unsigned int)i) * 4ul)))’, which is of non-class type ‘int’
+include/physicalSystem.h: In member function ‘void PhysicalSystem::forceFromPoints(int, int*, int*, const int&, int&, int&)’:
+include/physicalSystem.h:135:7: error: request for member ‘addForceFromPoint’ in ‘q’, which is of non-class type ‘const int’
+include/physicalSystem.h:136:7: error: request for member ‘add’ in ‘fp’, which is of non-class type ‘int’
+include/physicalSystem.h: In member function ‘void PhysicalSystem::cleanPointForce(int, int*)’:
+include/physicalSystem.h:141:98: error: request for member ‘set’ in ‘*(forces + ((long unsigned int)(((long unsigned int)i) * 4ul)))’, which is of non-class type ‘int’
+include/physicalSystem.h: In member function ‘void PhysicalSystem::assembleForces()’:
+include/physicalSystem.h:147:21: error: ‘pos’ was not declared in this scope
+include/physicalSystem.h:147:29: error: ‘rot’ was not declared in this scope
+include/physicalSystem.h:147:48: error: ‘class MoleculeType’ has no member named ‘xyzs’
+include/physicalSystem.h:147:54: error: ‘Tps_i’ was not declared in this scope
+include/physicalSystem.h:148:35: error: ‘fs_i’ was not declared in this scope
+include/physicalSystem.h:152:49: error: ‘class MoleculeType’ has no member named ‘xyzs’
+include/physicalSystem.h:152:55: error: ‘Tps_j’ was not declared in this scope
+include/physicalSystem.h:154:36: error: ‘fs_j’ was not declared in this scope
+include/physicalSystem.h:156:17: error: ‘class MoleculeType’ has no member named ‘atypes’
+include/physicalSystem.h:156:31: error: ‘class MoleculeType’ has no member named ‘Qs’
+include/physicalSystem.h:157:17: error: ‘class MoleculeType’ has no member named ‘atypes’
+include/physicalSystem.h:157:31: error: ‘class MoleculeType’ has no member named ‘Qs’
+include/physicalSystem.h:160:33: error: ‘class MoleculeType’ has no member named ‘xyzs’
+include/physicalSystem.h:160:54: error: ‘fpos’ was not declared in this scope
+include/physicalSystem.h:160:63: error: ‘frot’ was not declared in this scope
+include/physicalSystem.h:163:49: error: ‘surf_hat’ was not declared in this scope
+include/physicalSystem.h:164:32: error: ‘class MoleculeType’ has no member named ‘xyzs’
+include/physicalSystem.h:164:54: error: ‘fpos’ was not declared in this scope
+include/physicalSystem.h:164:63: error: ‘frot’ was not declared in this scope
+include/physicalSystem.h: In member function ‘void PhysicalSystem::rigidOptStep()’:
+include/physicalSystem.h:170:4: error: ‘fpos’ was not declared in this scope
+include/physicalSystem.h:170:22: error: ‘frot’ was not declared in this scope
+include/physicalSystem.h:171:4: error: ‘rot’ was not declared in this scope
+include/physicalSystem.h:175:17: error: ‘rot’ was not declared in this scope
+include/physicalSystem.h:175:29: error: ‘frot’ was not declared in this scope
+include/physicalSystem.h: In member function ‘void PhysicalSystem::draw()’:
+include/physicalSystem.h:186:5: error: ‘Mat3d’ was not declared in this scope
+include/physicalSystem.h:186:11: error: expected ‘;’ before ‘rotmat’
+include/physicalSystem.h:189:5: error: ‘rot’ was not declared in this scope
+include/physicalSystem.h:189:22: error: ‘rotmat’ was not declared in this scope
+include/physicalSystem.h:191:14: error: ‘pos’ was not declared in this scope
+In file included from SDLapp.cpp:57:0:
+include/Screen.h: At global scope:
+include/Screen.h:12:2: error: ‘Vec3d’ does not name a type
+include/Screen.h:59:42: error: ‘Vec3d’ has not been declared
+include/Screen.h: In member function ‘void Screen::projectMouse(float, float, int&)’:
+include/Screen.h:59:58: error: request for member ‘set_lincomb’ in ‘mp’, which is of non-class type ‘int’
+include/Screen.h:59:87: error: ‘camRight’ was not declared in this scope
+include/Screen.h:59:111: error: ‘camUp’ was not declared in this scope
+include/Screen.h: In member function ‘void Screen::getCameraDirections()’:
+include/Screen.h:123:2: error: ‘camRight’ was not declared in this scope
+include/Screen.h:124:2: error: ‘camUp’ was not declared in this scope
+include/Screen.h:125:2: error: ‘camDir’ was not declared in this scope
+SDLapp.cpp: In function ‘void setup()’:
+SDLapp.cpp:139:9: error: ‘class PhysicalSystem’ has no member named ‘surf_hat’
+SDLapp.cpp:139:40: error: ‘class PhysicalSystem’ has no member named ‘surf_hat’
+make: *** [program] Error 1
+./test: line 6: ./program: No such file or directory

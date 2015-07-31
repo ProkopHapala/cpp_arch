@@ -1,0 +1,2 @@
+rm -rf *.o program  
+g++ -g -w -o program SDLapp.cpp  -lm -lSDL2 -lGL -lGLU
