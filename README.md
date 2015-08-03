@@ -1,4 +1,4 @@
-# cpp_arch
+# Prokop's C++ program samples archive
 archive of my small independent C++ programs
 
 - most of the programs use [SDL2](https://www.libsdl.org/download-2.0.php) librady and OpenGL for visualization. 
